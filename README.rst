@@ -1,7 +1,7 @@
 Taller HOT - JSL 2015
 =====================
 
-* http://www.sigte.udg.edu/jornadassiglibre/
+* http://www.sigte.udg.edu/jornadassiglibre/programa/talleres [Taller 5]
 * http://bit.ly/jsl2015-taller-hot
 
 Geovoluntariado con HOT: ayudando al Mundo a través de la cartografía.
