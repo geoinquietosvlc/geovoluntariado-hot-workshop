@@ -16,3 +16,4 @@ Difusión
 Documentación de referencia
 ===========================
 
+* http://wiki.openstreetmap.org/wiki/Mapping_Weekend_Howto

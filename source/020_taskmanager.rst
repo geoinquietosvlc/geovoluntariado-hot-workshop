@@ -18,3 +18,10 @@ Crear activaciones
 ==================
 
 .. Cuando ocurre un evento ¿como solicito una activación?
+
+
+Documentación de referencia
+===========================
+
+* http://learnosm.org/en/coordination/tasking-manager/
+
