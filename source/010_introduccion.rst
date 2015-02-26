@@ -3,6 +3,7 @@
 ============
 Introducción
 ============
+
 ¿Qué es OSM y el HOT?
 =====================
 
@@ -15,7 +16,7 @@ La información es poder. Con información de calidad y una evaluación correcta
 individuos y comunidades se encuentran más capacitadas para mejorar sus vidas y
 tomar mejores decisiones sobre su futuro. Hay muchas personas y organizaciones
 que toman decisiones que afectan a nuestras vidas. Una información de calidad
-ayuda a ONGs, gobiernos y ciudadanos a tomar mejores decisiones, y ojalá,
+ayuda a ONGs, gobiernos y ciudadanos a tomar mejores decisiones y ojalá,
 mejorar también nuestras vidas. Los mapas pueden ser una buena forma de
 transmisión de información.
 
@@ -24,13 +25,13 @@ mucho mejor que las palabras. Éstos por lo tanto pueden ayudar a responder a
 decisiones importantes. ¿Dónde está la escuela u hospital más cercanos? ¿Quíén
 dispone del peor acceso a estas infraestructuras? ¿Dónde es más problemática la
 pobreza? Preguntas como éstas pueden a menudo ser expresadas de forma más
-eficiente mediante mapas, y los mapas pueden ayudarnos a encontrar soluciones a
+eficiente mediante mapas y los mapas pueden ayudarnos a encontrar soluciones a
 estas cuestiones.
 
 Como ejercicio, toma un bolígrafo y dibuja un mapa de tu ciudad o pueblo. ¿Qué
 cosas son las más importantes a incluir en el mapa? ¿Cuál es la información más
-importante? Emplea algunos minutos en hacer tu mapa, y cuando termines,
-reflexiona acerca de por qué la información que has incluido es importante, y
+importante? Emplea algunos minutos en hacer tu mapa y cuando termines,
+reflexiona acerca de por qué la información que has incluido es importante y
 para quién podría serlo.
 
 .. figure:: http://learnosm.org/images/en/beginner/01_introduction/en_beg_01_introduction_image00_village-in-indonesia.png
@@ -58,7 +59,7 @@ representación de lo que existe en el terreno.
 
     Ejemplos de símbolos
 
-Tu mapa es información. Tu podrías usar un mapa como éste para explicar a
+Tu mapa es información. Podrías usar un mapa como éste para explicar a
 alguien dónde se encuentran diferentes lugares, dónde se encuentran los
 problemas en tu comunidad, o simplemente para ayudar a alguien a moverse por el
 lugar. Los usos de tu mapa por otro lado son limitados. Solo hay una copia del
@@ -75,13 +76,13 @@ computadora, de tal forma que cualquiera pueda acceder al mismo.
     Cartografiando en una computadora
 
 OpenStreetMap es una herramienta para crear y compartir información
-cartográfica. Cualquiera puede contribuir a OSM, y miles de personas se suman al
+cartográfica. Cualquiera puede contribuir a OSM y miles de personas se suman al
 proyecto cada día. Los usuarios dibujan mapas en sus computadoras, en lugar de
-hacerlo en papel, pero como veremos en esta guía, dibujar un mapa en una
+hacerlo en papel, como veremos en esta guía, dibujar un mapa en una
 computadora no es tan diferente de hacerlo sobre papel. De igual forma
-dibujaremos líneas para representar carreteras, campos y todo lo demás, y del
+dibujaremos líneas para representar carreteras, campos y todo lo demás y del
 mismo modo representamos escuelas y hospitales con símbolos. Lo más importante
-es que los mapas OSM se guardan en Internet, y cualquiera puede acceder a ellos
+es que los mapas OSM se guardan en Internet y cualquiera puede acceder a ellos
 en cualquier momento, son totalmente libres y gratuitos.
 
 
@@ -107,9 +108,11 @@ El proceso de producción de OSM
 Los mapas se realizan siguiendo 3 pasos:
 
 * Toma de datos
+
 * Subida de datos a los servidores de OSM:
 
   - Edición gráfica de los datos
+
   - Edición alfanumérica de los datos
 
 * Renderizado de los mapas
@@ -175,6 +178,7 @@ acordados en el proyecto.
 OpenStreetMap solo reconoce 2 tipos de datos gráficos:
 
 * **Nodos:** Son elementos puntuales
+
 * **Vías:** Conexiones lineales entre nodos.
 
   * **Vías abiertas:** Vías que tienen entre 2 y 2000 nodos
@@ -239,7 +243,20 @@ Introducción al Equipo Humanitario de OSM
 
 .. _portada del HOT en el wiki de OSM: wiki.openstreetmap.org/wiki/ES:Humanitarian_OSM_Team
 
-Desde los primeros tiempos de OpenStreetMap_, se anticipó que los datos libres y abiertos iban a ser tremendamente beneficiosos para la ayuda humanitaria y el desarrollo económico. La idea fue confirmada durante el `terremoto de Haití en 2010`_ . Poco después, en agosto de 2010, HOT se constituyó en Estadus Unidos como una organización sin ánimo de lucro y obtuvo el registro 501(c)3 `como organización benéfica`_ en 2013. Todo el mundo es bienvenido a contribuir en los objetivos del HOT a través de nuestro gestor de tareas `Tasking Manager`_); todo lo que necesitas es un `usuario en OpenStreetMap`_. Solo te pedimos que intentes seguir el mismo código de conducta de nuestros miembros con derecho a voto, puedes ver `código de membresía del HOT`_ (en inglés).
+Desde los primeros tiempos de OpenStreetMap_, se anticipó que los datos libres
+y abiertos iban a ser tremendamente beneficiosos para la ayuda humanitaria y el
+desarrollo económico.
+
+La idea se confirmó durante el `terremoto de Haití en 2010`_ . Poco después, en
+agosto de 2010, HOT se constituyó en Estadus Unidos como una organización sin
+ánimo de lucro y obtuvo el registro 501(c)3 `como organización benéfica`_ en
+2013.
+
+Todo el mundo es bienvenido a contribuir en los objetivos del HOT a través del
+gestor de tareas `Tasking Manager`_); todo lo que se necesita es un `usuario en OpenStreetMap`_. 
+
+Solo se pide que se intente seguir el mismo código de conducta que siguen los
+miembros con derecho a voto, que se puede ver en el `código de membresía del HOT`_ (en inglés).
 
 .. _terremoto de Haití en 2010: http://en.wikipedia.org/wiki/2010_Haiti_earthquake
 .. _como organización benéfica: http://hot.openstreetmap.org/donate
@@ -259,25 +276,39 @@ Misión
 Objetivos principales
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* Ser el punto de conexión entre los actores de ayuda humanitaria y  las comunidades de cartografía abierta
-* Proporcionar la [[Remote Mapping|remote creación de datos]] durante cualquier crisis
+* Ser el punto de conexión entre los actores de ayuda humanitaria y  las
+  comunidades de cartografía abierta
+
+* Proporcionar la creación de datos a distancia durante cualquier crisis
+
 * Recolectar y organizacr las fuentes de datos existentes
+
 * Apoyar despliegues en el campo
+
 * Ser un punto de distribución de datos libres
+
 * Desarrollar conocimiento y herramientas abiertas
+
 
 Promoción, Capacitación y Difusión
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-* Jornadas de cartografía o [[mapping parties]]
-* Hablar, escribir, reunirse en comunidades humanitarias y con técnicos de las Naciones Unidas
+* Jornadas de cartografía o *mapping parties*
+
+* Hablar, escribir, reunirse en comunidades humanitarias y con técnicos de las
+  Naciones Unidas
+
 * http://summit.hotosm.org/
+
 
 Pensar y Diseñar
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 * Promocionar el desarrollo colaborativo y estándares web sencillos para compartir datos
-* Desarrollar mejoras técnicas en OSM y [[OSGeo]] en respuesta a las necesidades sobre el terreno (apoyo en línea, verificación, adaptadores de formato, sincronización con varios maestros..)
+
+* Desarrollar mejoras técnicas en OSM y OSGeo en respuesta a las
+  necesidades sobre el terreno (apoyo en línea, verificación, adaptadores de
+  formato, sincronización con varios maestros..)
 
 
 Los datos en OSM
@@ -381,11 +412,17 @@ Nodos (Node)
 Los Nodos tienen, entre otras informaciones, las siguientes características:
 
 * **id:** el identificador
+
 * **lat** y **lon:** la posición geográfica en EPSG4326
+
 * **visible:** boolean que determina la visibilidad
+
 * **user:** usuario que creó la versión del nodo
+
 * **timestamp:** marca de tiempo de creación
+
 * **version:** incremental para cada objeto.
+
 
 .. image:: https://taller-de-josm-imposm-tilemill.readthedocs.org/es/feature-cfp2014/_images/node.png
    :width: 400 px
@@ -409,10 +446,15 @@ Vías (Way)
 Las Vías son listas ordenadas de nodos que tienen información como:
 
 * **id:** el identificador
+
 * **visible:** boolean que determina la visibilidad
+
 * **user:** usuario que creó el nodo
+
 * **timestamp:** marca de tiempo de creación
+
 * **version:** incremental para cada objeto.
+
 
 .. image:: https://taller-de-josm-imposm-tilemill.readthedocs.org/es/feature-cfp2014/_images/way.png
    :width: 400 px
@@ -448,9 +490,13 @@ Las Relaciones son listas ordenadas de objetos, son objetos en si mismas y sirve
 entre cualquier tipo de objeto. También tienen información como:
 
 * **id:** el identificador
+
 * **visible:** boolean que determina la visibilidad
+
 * **user:** usuario que creó el nodo
+
 * **timestamp:** marca de tiempo de creación
+
 
 .. image:: https://taller-de-josm-imposm-tilemill.readthedocs.org/es/feature-cfp2014/_images/relation.png
    :width: 600 px
