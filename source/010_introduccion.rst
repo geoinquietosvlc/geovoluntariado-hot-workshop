@@ -34,13 +34,13 @@ importante? Emplea algunos minutos en hacer tu mapa y cuando termines,
 reflexiona acerca de por qué la información que has incluido es importante y
 para quién podría serlo.
 
-.. figure:: http://learnosm.org/images/en/beginner/01_introduction/en_beg_01_introduction_image00_village-in-indonesia.png
+.. figure:: img/en_beg_01_introduction_image00_village-in-indonesia.png
     :alt: Un pueblo de Indonesia
     :align: center
 
     Un pueblo de Indonesia
 
-.. figure:: http://learnosm.org/images/en/beginner/01_introduction/en_beg_01_introduction_image01_hand-drawn-map.png
+.. figure:: img/en_beg_01_introduction_image01_hand-drawn-map.png
     :alt:  Ejemplo de mapa dibujado a mano alzada
     :align: center
 
@@ -53,7 +53,7 @@ hayas dibujado, probablemente hayas usado símbolos (una línea para representar
 una carretera, un rectángulo para dibujar un edificio, etc.). Tu mapa es una
 representación de lo que existe en el terreno.
 
-.. figure:: http://learnosm.org/images/en/beginner/01_introduction/en_beg_01_introduction_image02_examples-of-symbols.png
+.. figure:: img/en_beg_01_introduction_image02_examples-of-symbols.png
     :alt: Ejemplos de símbolos
     :align: center
 
@@ -69,7 +69,7 @@ mapa es simplemente un trozo de papel, es difícil llevar esa información a otr
 personas. Por esta razón puede tener mucha más utilidad hacer tu mapa en una
 computadora, de tal forma que cualquiera pueda acceder al mismo.
 
-.. figure:: http://learnosm.org/images/en/beginner/01_introduction/en_beg_01_introduction_image03_mapping-on-computer.png
+.. figure:: img/en_beg_01_introduction_image03_mapping-on-computer.png
     :alt: Cartografiando en una computadora
     :align: center
 
@@ -86,7 +86,7 @@ es que los mapas OSM se guardan en Internet y cualquiera puede acceder a ellos
 en cualquier momento, son totalmente libres y gratuitos.
 
 
-.. figure:: http://learnosm.org/images/en/beginner/01_introduction/en_beg_01_introduction_image04_digital-maps-with-osm.png
+.. figure:: img/en_beg_01_introduction_image04_digital-maps-with-osm.png
     :alt: Mapas digitales con OpenStreetMap
     :align: center
 
@@ -118,7 +118,7 @@ Los mapas se realizan siguiendo 3 pasos:
 * Renderizado de los mapas
 
 Toma de datos
-````````````````
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Los datos se recopilan por observación directa, preferentemente empleando
 GPS, aunque pueden emplearse otros medios como fotografía aérea si los
@@ -145,20 +145,20 @@ Los orígenes más comunes de datos son:
 * Información previa existente que requiera ser incluida en un mapa.
 
 Subida de datos a los servidores de OpenStreetMap
-``````````````````````````````````````````````````````````
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Una vez recopilada la información, esta debe ser incorporada a la base de
 datos de OSM. Para ello existen diversos medios, aunque principalmente se
 emplean clientes web como iD:
 
-.. image:: https://taller-de-josm-imposm-tilemill.readthedocs.org/es/feature-cfp2014/_images/id.png
+.. image:: img/id.png
    :width: 600 px
    :alt: editor iD
    :align: center
 
 y el cliente de escritorio JOSM:
 
-.. image:: https://taller-de-josm-imposm-tilemill.readthedocs.org/es/feature-cfp2014/_images/josmgirona.png
+.. image:: img/josmgirona.png
    :width: 600 px
    :alt: editor josm
    :align: center
@@ -168,7 +168,7 @@ formato estándar GPX y subirlos posteriormente al repositorio de trazas GPS
 de OSM de forma que cualquier usuario pueda acceder a dicha información.
 
 Edición gráfica de los datos
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""""""""
 
 Empleando alguna de las aplicaciones que lo permiten; como iD, Potlach2,
 JOSM o Merkaartor por ejemplo; se descarga del servidor la porción de
@@ -190,7 +190,7 @@ OpenStreetMap solo reconoce 2 tipos de datos gráficos:
 
 
 Edición alfanumérica de los datos
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""""""""""""
 
 OpenStreetMap reconoce 2 tipos de datos alfanuméricos:
 
@@ -210,7 +210,7 @@ Esta información adicional alfanumérica permite clasificar los datos para
 que el proceso de renderizado los muestre correctamente representados.
 
 Renderizado de los mapas
-``````````````````````````````````````````````````````````
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 El proyecto OSM tiene `varios motores de renderizado
 <http://wiki.openstreetmap.org/wiki/Renderers>`_ tanto en 2D como en 3D que
@@ -221,7 +221,7 @@ Los principales motores de renderizado son:
 * Osmarender En realidad se trata más bien de un conjunto de reglas XLST que
   genera SVG.
 
-.. image:: https://taller-de-josm-imposm-tilemill.readthedocs.org/es/feature-cfp2014/_images/osmarender.png
+.. image:: img/osmarender.png
    :width: 600 px
    :alt: mapa renderizado con osmarender
    :align: center
@@ -230,7 +230,7 @@ Los principales motores de renderizado son:
   renderizar tiles de 256x256. Es el motor de render más utilizado
   actualmente.
 
-.. image:: https://taller-de-josm-imposm-tilemill.readthedocs.org/es/feature-cfp2014/_images/mapnik.png
+.. image:: img/mapnik.png
    :width: 600 px
    :alt: mapa renderizado con mapnik
    :align: center
@@ -266,15 +266,15 @@ miembros con derecho a voto, que se puede ver en el `código de membresía del H
 
 
 Misión y Objetivos del Equipo Humanitario de OSM
-``````````````````````````````````````````````````````
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Misión
-^^^^^^^^^
+"""""""""""
 
 * El Equipo Humanitario de OpenStreetMap (HOT) aplica los principios del *software* y los datos abiertos a la respuesta humanitaria y el desarrollo económico.
 
 Objetivos principales
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+""""""""""""""""""""""""""
 
 * Ser el punto de conexión entre los actores de ayuda humanitaria y  las
   comunidades de cartografía abierta
@@ -291,7 +291,7 @@ Objetivos principales
 
 
 Promoción, Capacitación y Difusión
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""""""""""""""""""""""
 
 * Jornadas de cartografía o *mapping parties*
 
@@ -302,7 +302,7 @@ Promoción, Capacitación y Difusión
 
 
 Pensar y Diseñar
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"""""""""""""""""""
 
 * Promocionar el desarrollo colaborativo y estándares web sencillos para compartir datos
 
@@ -319,7 +319,7 @@ Los datos en OSM
 Daremos un rápido vistazo a la API de OSM y al formato XML de OSM.
 
 La API de OSM
-``````````````````````````````````````````````````````````
+------------------
 
 La API_ de OSM es el único medio de modificar datos de la base de datos.
 Todas las aplicaciones que quieran obtener datos y subir datos a la base de
@@ -354,7 +354,7 @@ local y consultar sobre ésta.
 .. _Planet: https://wiki.openstreetmap.org/wiki/Planet.osm
 
 Actualización de datos
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ejemplos de actualización de datos::
 
@@ -377,7 +377,7 @@ Ejemplo de respuesta:
     </osm>
 
 Otras consultas
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~
 
 Ejemplos de consultas::
 
@@ -401,13 +401,13 @@ Ejemplo de respuesta:
     </osm>
 
 OSM XML Data: el formato OpenStreetMap
-``````````````````````````````````````````````````````````
+-----------------------------------------
 
 El formato de intercambio estándar de la API es un XML compuesto por
 combinaciones de los cuatro elementos principales.
 
 Nodos (Node)
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Los Nodos tienen, entre otras informaciones, las siguientes características:
 
@@ -424,7 +424,7 @@ Los Nodos tienen, entre otras informaciones, las siguientes características:
 * **version:** incremental para cada objeto.
 
 
-.. image:: https://taller-de-josm-imposm-tilemill.readthedocs.org/es/feature-cfp2014/_images/node.png
+.. image:: img/node.png
    :width: 400 px
    :align: center
 
@@ -441,7 +441,7 @@ pares key/value
     </node>
 
 Vías (Way)
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~
 
 Las Vías son listas ordenadas de nodos que tienen información como:
 
@@ -456,7 +456,7 @@ Las Vías son listas ordenadas de nodos que tienen información como:
 * **version:** incremental para cada objeto.
 
 
-.. image:: https://taller-de-josm-imposm-tilemill.readthedocs.org/es/feature-cfp2014/_images/way.png
+.. image:: img/way.png
    :width: 400 px
    :align: center
 
@@ -484,7 +484,7 @@ asociada al estilo OSM a traves de pares key/value
     </way>
 
 Relaciones (Relation)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Las Relaciones son listas ordenadas de objetos, son objetos en si mismas y sirven para definir relaciones
 entre cualquier tipo de objeto. También tienen información como:
@@ -498,7 +498,7 @@ entre cualquier tipo de objeto. También tienen información como:
 * **timestamp:** marca de tiempo de creación
 
 
-.. image:: https://taller-de-josm-imposm-tilemill.readthedocs.org/es/feature-cfp2014/_images/relation.png
+.. image:: img/relation.png
    :width: 600 px
    :align: center
 
@@ -518,13 +518,13 @@ relación.
     </relation>
 
 Etiqueta (Tag)
-^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Pese a ser una primitiva reconocida por la API de OSM en realidad está integrada
 dentro de las otras primitivas y nos permite definir los atributos de las
 mismas.
 
-.. image:: https://taller-de-josm-imposm-tilemill.readthedocs.org/es/feature-cfp2014/_images/etiquetas.png
+.. image:: img/etiquetas.png
    :width: 600 px
    :alt: web de map features
    :align: center
