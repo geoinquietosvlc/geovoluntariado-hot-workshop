@@ -55,7 +55,7 @@ cartografía en OSM de su realidad más cercana.
    010_introduccion.rst
    020_taskmanager.rst
    030_carto_sillon.rst
-   040_activaciones.rst
+   040_revision.rst
    050_mapping_parties_hot.rst
 
 
