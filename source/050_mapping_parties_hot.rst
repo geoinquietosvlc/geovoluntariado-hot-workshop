@@ -373,4 +373,93 @@ Enlaces
 Mapatones para el HOT
 =========================
 
-**TODO**
+.. figure:: img/yolanda-valencia.jpg
+   :align: center
+   :width: 600px
+   :alt: Mapatón en Valencia por el tifón Yolanda
+
+   Mapatón en Valencia por el tifón Yolanda
+
+.. image:: img/nightofthelivingmap.png
+   :align: right
+   :width: 300px
+
+
+Un **Mapatón** (*mapathon* en inglés) es un esfuerzo coordinado de cartografiado
+en OpenStreetMap, en general como una sesión de :ref:`cartografiado de sillón
+<remote>`. Suelen convocarse de forma global para toda la comunidad y en respuesta
+a situaciones de crisis de especial relevancia. También pueden convocarse con
+motivo de la celebración de algún evento o simplemente como forma de hacer
+difusión del proyecto, como es el caso de la `Noche de los Mapas Vivientes`_, en
+en el que se convocó a la comunidad a pasar una noche en vela cartografiando.
+
+
+.. figure:: img/living-maps.jpg
+   :align: center
+   :alt: Ejemplo de antes y después en la Noche de los Mapas Vivientes.
+   :width: 600px
+
+   Ejemplo de antes y después en la Noche de los Mapas Vivientes.
+
+
+En mapatón por tanto es una sesión que tiene un objetivo doble:
+
+* Por un lado se pretende responder a una necesidad concreta y bien definida que
+  en general será una activación especialmente urgente del HOT_. Por lo tanto
+  no es un taller exactamente una jornada para aprender sobre cómo funciona
+  |OSM| sino como mucho aprender lo justo para poder colaborar en los objetivos
+  definidos.
+
+* Por otro lado es una ocasión excelente para atraer la atención de posibles
+  nuevos colaboradores, ya que ofrecer la oportunidad de participar en una
+  actividad de ayuda **real** en un evento llamativo pero lejano siempre va a ser
+  atractivo.
+
+Preparación
+----------------
+
+En esencia la preparación de un Mapatón es muy similar a la de una *Mapping Party*
+normal, salvo que se trata de un evento mucho más reducido y por tanto sencillo
+de organizar. Un mapatón suele organizarse para una única jornada o incluso media
+jornada, seguramente por la tarde de forma que sea más sencillo para los asistentes
+acudir.
+
+Al igual que con una *Mapping Party* lo más importante es conseguir un buen lugar
+para trabajar. Algunas opciones habituales son:
+
+* Laboratorios con equipos informáticos en centros educativos, especialmente en
+  universidades.
+* Espacios públicos con suficiente capacidad como bibliotecas o centros culturales
+* Espacios privados que se presten a ceder sus instalaciones como centros de
+  *coworking*, organizaciones sin ánimo de lucro o incluso bares o cafeterías
+  si el día elegido suele ser tranquilo.
+
+Lo mínimo que se necesita es:
+
+* Mesas, sillas y enchufes suficientes. Si hace falta, pedir a la gente traer
+  algunas regletas.
+
+* Asegurar que hay conexión a Internet suficiente para la capacidad del local
+
+Con esto ya se puede empezar, es poco pero puede ser suficiente dependiendo del
+perfil de los asistentes.
+
+Además es conveniente disponer de una pantalla y un proyector para poder hacer
+demostraciones, charla inicial introductoria, etc.
+
+Finalmente, si además el espacio es fácilmente accesible mediante transporte
+público, existe cerca algún bar o restaurante para poder parar a comer sin
+perder mucho tiempo, máquinas de refrescos, etc hará que el mapatón sea más
+cómodo para los asistentes.
+
+Difusión
+-------------
+
+
+Resultados
+-------------
+
+
+
+.. _Noche de los Mapas Vivientes: http://wiki.openstreetmap.org/wiki/Night_of_the_living_maps
+

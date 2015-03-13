@@ -288,4 +288,7 @@ rst_prolog = u"""
 .. |pferrer|  replace:: Pedro-Juan Ferrer `@vehrka`_ · pferrer@osgeo.org
 .. _@vehrka: http://twitter.com/vehrka
 .. _@xurxosanz: http://twitter.com/xurxosanz
+.. _HOT: http://hotosm.org
+.. _OSM: http://openstreetmap.org
+.. |OSM|     replace:: OpenStreetMap
 """
