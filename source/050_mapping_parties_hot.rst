@@ -410,14 +410,14 @@ En mapatón por tanto es una sesión que tiene un objetivo doble:
 
 * Por un lado se pretende responder a una necesidad concreta y bien definida que
   en general será una activación especialmente urgente del HOT_. Por lo tanto
-  no es un taller exactamente una jornada para aprender sobre cómo funciona
-  |OSM| sino como mucho aprender lo justo para poder colaborar en los objetivos
-  definidos.
+  no es un taller exactamente, o una jornada para aprender sobre cómo funciona
+  |OSM| sino como mucho para aprender lo justo para poder colaborar en los objetivos
+  marcados.
 
 * Por otro lado es una ocasión excelente para atraer la atención de posibles
-  nuevos colaboradores, ya que ofrecer la oportunidad de participar en una
-  actividad de ayuda **real** en un evento llamativo pero lejano siempre va a ser
-  atractivo.
+  nuevos colaboradores, siempre va a ser atractivo ofrecer la oportunidad de
+  participar en una actividad de ayuda **real** en un evento llamativo pero
+  lejano.
 
 Preparación
 ----------------
@@ -526,7 +526,6 @@ puede dividirse en:
 #. Edición
 #. Resultados y conclusiones.
 
-
 Es importante al iniciar la sesión conocer los perfiles de los asistentes, tal vez sea
 interesante dividirlos en grupos de mayor o menor experiencia. Por ejemplo:
 
@@ -540,7 +539,7 @@ interesante dividirlos en grupos de mayor o menor experiencia. Por ejemplo:
 *  **Usuarios con experiencia**: estos usuarios seguramente ya han editado con iD o JOSM y
    solo necesitan que se les indique sobre qué zonas se va a cartografiar, qué tipo de
    entidades son más importantes y en general serán bastante autónomos, ya que aún con
-   dudas, entre ellos mismos podrán resolverlas.
+   dudas, por si mismos podrán resolverlas.
 
 *  **Usuarios expertos**: en el caso de contar con muchos usuarios con experiencia, tal vez
    los más veteranos puedan dedicarse a tareas de validación, ya que éstas suelen ser
