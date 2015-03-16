@@ -64,6 +64,7 @@ difícil de conseguir. El resto simplemente irá a su sitio.
 
 .. _doodle.com: http://doodle.com
 
+
 Planificiación
 ---------------------
 
@@ -170,6 +171,9 @@ vais a necesitar para trabajar hacer uso de `unidades GPS`_.
 
 .. _imágenes aéreas: https://wiki.openstreetmap.org/wiki/Aerial_imagery
 .. _unidades GPS: https://wiki.openstreetmap.org/wiki/GPS_Unit
+
+
+.. _mp_publi:
 
 Publicidad
 -----------------
@@ -418,7 +422,7 @@ En mapatón por tanto es una sesión que tiene un objetivo doble:
 Preparación
 ----------------
 
-En esencia la preparación de un Mapatón es muy similar a la de una *Mapping Party*
+En esencia la preparación de un *Mapatón* es muy similar a la de una *Mapping Party*
 normal, salvo que se trata de un evento mucho más reducido y por tanto sencillo
 de organizar. Un mapatón suele organizarse para una única jornada o incluso media
 jornada, seguramente por la tarde de forma que sea más sencillo para los asistentes
@@ -452,12 +456,121 @@ público, existe cerca algún bar o restaurante para poder parar a comer sin
 perder mucho tiempo, máquinas de refrescos, etc hará que el mapatón sea más
 cómodo para los asistentes.
 
+Todo esto y el resto de la documentación que vayamos a producir sobre el
+mapatón es conveniente ir dejándolo por escrito en el wiki de |OSM|.
+
 Difusión
 -------------
 
+Se pueden seguir las mismas recomendaciones que se exponen en el apartado sobre
+:ref:`publicidad <_mp_publi>` de la sección anterior, considerando que el evento
+probablemente va a ser interesante para un entorno más local y que, en función de
+las capacidades del local y de la respuesta de la comunidad a llamamientos anteriores,
+puede ser interesante enfocar la difusión para colaboradores a OSM ya existentes,
+o tal vez a nuevos posibles colaboradores.
 
-Resultados
--------------
+En el segundo caso, es interesante por tanto hacer énfasis en difundir la celebración
+del mapatón en entornos universitarios y en el ámbito de las ONGs, donde el objetivo
+de la actividad puede resultar atractivo y motivador.
+
+Contar con contactos en grupos tecnológicos locales, listas de correo y *newsletters*,
+grupos en redes sociales y cualquier otro medio de comunicación pueden resultar
+útiles. Hay que dedicar cierto tiempo a llegar a esos foros no tecnológicos donde
+seguramente encontraremos potenciales nuevos colaboradores.
+
+Es conveniente en el wiki ir dejando constancia de aquellos medios donde se hagan
+eco del evento, así como cualquier dificultad o tarea sin terminar de difusión que
+pueda ayudar a evitar perder el tiempo en futuros mapatones.
+
+
+Organización del trabajo
+-------------------------
+
+Algunas cosas que se pueden pedir a los asistentes traer:
+
+* Traer un portátil si tus instalaciones no tienen equipos
+
+* Traer alguna regleta si se tienen a mano
+
+* Venir con un navegador moderno instalado (*Google Chrome* o *Mozilla Firefox*)
+
+* Venir con la máquina virtual Java instalada (si se va a editar con JOSM, dependerá
+  del perfil medio de los usuarios que vendrán)
+
+* Si pueden venir con una cuenta de OSM creada, mucho mejor
+
+En las instalaciones:
+
+* Tener preparadas hojas con las instrucciones para conectarse a Internet si son
+  especialmente complicadas (como suele ocurrir en universidades)
+
+* Tener descargada una máquina virtual Java y tal vez versiones portables para *Windows*
+  de *Firefox* y JOSM al menos.
+
+* Revisar mínimamente el estado de las tareas en el *Task Manager* que vamos a
+  ofrecer a los asistentes, comprobar que las instrucciones para la configuración
+  de los editores funcionan y cualquier otra indicación que haga falta pasar a los
+  asistentes.
+
+* Tener a mano una charla de introducción sobre OSM, o los enlaces a las guías de
+  aprendizaje. Dejarlos bien visibles en el wiki del mapatón.
+
+
+Durante el mapatón
+-----------------------
+
+Un mapatón, al igual que la sesión de edición de datos de una *Mapping Party* normal
+puede dividirse en:
+
+#. Bienvenida e introducción
+#. Edición
+#. Resultados y conclusiones.
+
+
+Es importante al iniciar la sesión conocer los perfiles de los asistentes, tal vez sea
+interesante dividirlos en grupos de mayor o menor experiencia. Por ejemplo:
+
+*  **Usuarios novatos**: habrá que darles una charla de introducción específica y enseñarles
+   las cuestiones más básicas. Seguramente sea interesante que se deciden a tareas
+   de edición con **iD** que no requieran de grandes conocimientos en etiquetado. Deberán
+   contar con el soporte de uno o varios colaboradores con experiencia que se quieran ofrecer
+   a ayudarles. Es también probable que con este grupo sea necesario crear cuentas,
+   configurar equipos y otras tareas que retrasarían al resto.
+
+*  **Usuarios con experiencia**: estos usuarios seguramente ya han editado con iD o JOSM y
+   solo necesitan que se les indique sobre qué zonas se va a cartografiar, qué tipo de
+   entidades son más importantes y en general serán bastante autónomos, ya que aún con
+   dudas, entre ellos mismos podrán resolverlas.
+
+*  **Usuarios expertos**: en el caso de contar con muchos usuarios con experiencia, tal vez
+   los más veteranos puedan dedicarse a tareas de validación, ya que éstas suelen ser
+   menos populares y requieren de cierta experiencia en el trabajo en el HOT.
+
+
+Resultados y conclusiones
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Es conveniente recordar a todos los colaboradores el utilizar algún tipo de etiqueta que
+permita filtrar los *changesets* o generar algún tipo de visualización como la ofrecida
+por `Result Maps <http://resultmaps.neis-one.org/osm-changesets#2/33.9/1.4>`_.
+
+Además del balance cuantitativo, es recomendable anotar en el wiki las lecciones aprendidas,
+así como hacer con el grupo algún tipo de retrospectiva que ayude a recoger las impresiones
+tanto de asistentes como organizadores. Esta información, al igual que la indicada en los
+aspectos relativos a la preparación y difusión del evento servirán para mejorar la organización
+de futuros mapatones no solo por el mismo equipo sino especialmente para aquellos nuevos
+colaboradores que se animen a organizar un mapatón en su ciudad.
+
+
+Referencias
+------------------
+
+* Página sobre `mapatones <http://wiki.openstreetmap.org/wiki/Mapathon>`_ en el wiki de |OSM|
+
+* Notas sobre `cómo prepararse para asistir a un evento de Missing Maps <http://wiki.openstreetmap.org/wiki/Missing_Maps_Mapathons_-_before_the_event>`_.
+
+* La `Noche de los Mapas Vivientes`_
+* Artículo sobre la `retrospectiva en estrella <https://www.thekua.com/rant/2006/03/the-retrospective-starfish/>`_
 
 
 
