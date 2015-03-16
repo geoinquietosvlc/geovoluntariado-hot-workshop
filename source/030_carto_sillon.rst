@@ -4,6 +4,8 @@
 Cartografía de sillón
 =====================================================
 
+.. note:: Texto extraído de la `guía de coordinación de OSM <http://learnosm.org/es/coordination/remote/>`_
+
 La edición a distancia y su lugar en el equipo HOT
 =====================================================
 
@@ -42,9 +44,9 @@ tiene muchos roles, incluyendo (¡y esto no es una lista exhaustiva!):
 
 - Y la edición a distancia.
 
-La **edición remota** es la tarea de trabajo más intensivo. Se han realizado
+La **edición remota** es la tarea de trabajo más intensiva. Se han realizado
 muchos intentos para intentar reemplazar a los contribuidores a distancia, pero
-hasta la fecha todas han fallado. En resumen, la edición cartográfica a
+hasta la fecha todos han fallado. En resumen, la edición cartográfica a
 distancia (*remote mapping*) es el proceso de utilizar un *software* para crear
 datos geográficos trazando sobre imágenes de satélite, así como la carga de los
 resultados de tal manera que pasan a formar parte de un mapa. Es una habilidad
@@ -161,7 +163,7 @@ Vista inicial - JOSM
    un ligero solape entre celdas, de forma que una entidad en tu celda que
    acaba en el límite también aparecerá en la celda adyacente. Solo deberías
    cartografiar las entidades que están completamente dentro de tu celda para
-   evitar *confilctos*, que se explican en otra sección.  
+   evitar *confilctos*, que se explican en otra sección.
 
 
 .. note:: Si no ves el límite a rallas, tal vez tengas instalado el

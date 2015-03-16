@@ -573,6 +573,6 @@ Referencias
 * Artículo sobre la `retrospectiva en estrella <https://www.thekua.com/rant/2006/03/the-retrospective-starfish/>`_
 
 
-
+.. _HOT: http://hotosm.org
 .. _Noche de los Mapas Vivientes: http://wiki.openstreetmap.org/wiki/Night_of_the_living_maps
 

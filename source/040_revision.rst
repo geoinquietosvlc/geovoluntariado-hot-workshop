@@ -4,6 +4,9 @@
 Revisión de los datos
 ======================
 
+.. note:: Texto extraído de la `guía de coordinación de OSM <http://learnosm.org/es/coordination/review/>`_
+
+
 Comprobando los Datos OSM
 =========================
 
@@ -276,7 +279,7 @@ error en este momento).
   pulsar OK puede ser peligroso**.
 
 - Se abre la búsqueda de nuevo y se introduce::
-  
+
   *"building:use"=mixed*
 
 - Nótese que las comillas son necesarias porque el carácter dos puntos (:)

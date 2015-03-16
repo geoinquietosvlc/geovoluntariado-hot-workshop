@@ -4,6 +4,9 @@
 El Task Manager de HOT
 ======================
 
+.. note:: Texto extraído de la `guía de coordinación de OSM <http://learnosm.org/es/coordination/tasking-manager/>`_
+
+
 Gestor de Tareas
 ------------------
 
