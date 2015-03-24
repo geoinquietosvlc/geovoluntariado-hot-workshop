@@ -214,21 +214,11 @@ Renderizado de los mapas
 
 El proyecto OSM tiene `varios motores de renderizado
 <http://wiki.openstreetmap.org/wiki/Renderers>`_ tanto en 2D como en 3D que
-permiten obtener una imagen de la información de la base de datos.
-
-Los principales motores de renderizado son:
-
-* Osmarender En realidad se trata más bien de un conjunto de reglas XLST que
-  genera SVG.
-
-.. image:: img/osmarender.png
-   :width: 600 px
-   :alt: mapa renderizado con osmarender
-   :align: center
-
-* Mapnik Toma los datos y los carga en un PostGIS para posteriormente
-  renderizar tiles de 256x256. Es el motor de render más utilizado
-  actualmente.
+permiten obtener una imagen de la información de la base de datos. El principal
+motor de renderizado es el que utiliza la biblioteca Mapnik. Un proceso automático
+toma los datos desde la base de datos principal y los carga en una base de datos
+Postgresql/PostGIS para posteriormente renderizar tiles de 256x256 que son
+normalmente consumidos desde la web principal del proyecto.
 
 .. image:: img/mapnik.png
    :width: 600 px
@@ -253,7 +243,7 @@ agosto de 2010, HOT se constituyó en Estadus Unidos como una organización sin
 2013.
 
 Todo el mundo es bienvenido a contribuir en los objetivos del HOT a través del
-gestor de tareas `Tasking Manager`_); todo lo que se necesita es un `usuario en OpenStreetMap`_. 
+gestor de tareas `Tasking Manager`_); todo lo que se necesita es un `usuario en OpenStreetMap`_.
 
 Solo se pide que se intente seguir el mismo código de conducta que siguen los
 miembros con derecho a voto, que se puede ver en el `código de membresía del HOT`_ (en inglés).
