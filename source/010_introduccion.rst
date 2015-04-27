@@ -90,7 +90,7 @@ en cualquier momento, son totalmente libres y gratuitos.
     :alt: Mapas digitales con OpenStreetMap
     :align: center
 
-    Mapas difitales con OpenStreetMap
+    Mapas digitales con OpenStreetMap
 
 
 Esperamos que encuentres OpenStreetMap útil e interesante en tu trabajo.
