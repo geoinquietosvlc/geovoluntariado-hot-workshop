@@ -12,27 +12,13 @@ Introducción
 Introducción a OpenStreetMap
 ---------------------------------
 
-La información es poder. Con información de calidad y una evaluación correcta,
-individuos y comunidades se encuentran más capacitadas para mejorar sus vidas y
-tomar mejores decisiones sobre su futuro. Hay muchas personas y organizaciones
-que toman decisiones que afectan a nuestras vidas. Una información de calidad
-ayuda a ONGs, gobiernos y ciudadanos a tomar mejores decisiones y ojalá,
-mejorar también nuestras vidas. Los mapas pueden ser una buena forma de
-transmisión de información.
-
-Los mapas son símbolos visuales de nuestro mundo. A menudo demuestran una idea
-mucho mejor que las palabras. Éstos por lo tanto pueden ayudar a responder a
-decisiones importantes. ¿Dónde está la escuela u hospital más cercanos? ¿Quíén
-dispone del peor acceso a estas infraestructuras? ¿Dónde es más problemática la
-pobreza? Preguntas como éstas pueden a menudo ser expresadas de forma más
-eficiente mediante mapas y los mapas pueden ayudarnos a encontrar soluciones a
-estas cuestiones.
-
-Como ejercicio, toma un bolígrafo y dibuja un mapa de tu ciudad o pueblo. ¿Qué
-cosas son las más importantes a incluir en el mapa? ¿Cuál es la información más
-importante? Emplea algunos minutos en hacer tu mapa y cuando termines,
-reflexiona acerca de por qué la información que has incluido es importante y
-para quién podría serlo.
+La información es poderosa. Con buena información y el correcto entendimiento,
+los individuos y las comunidades son más capaces de mejorar sus vidas y tomar
+buenas decisiones sobre el futuro. Hay muchas personas y organizaciones que
+toman decisiones que afectan nuestras vidas. Buena información permite a estas
+ONGs (organizaciones no gubernamentales), gobiernos y ciudadanos tomar mejores
+decisiones, y con suerte nos hacen la vida mejor. Los mapas son una buena manera
+de transmitir información.
 
 .. figure:: img/en_beg_01_introduction_image00_village-in-indonesia.png
     :alt: Un pueblo de Indonesia
@@ -40,18 +26,32 @@ para quién podría serlo.
 
     Un pueblo de Indonesia
 
+Los mapas son símbolos visuales de nuestro mundo. A menudo puede demostrar una
+idea mejor que las palabras. Esto a su vez puede ayudarnos a responder preguntas
+importantes. *¿Dónde está la escuela u hospital más cercano? ¿Quién tiene menos
+acceso a estas instalaciones? ¿Dónde está la pobreza más problemática?*
+Preguntas como éstas pueden a menudo expresarse mejor con mapas, y los mapas
+pueden ayudar a encontrar soluciones a estas preguntas.
+
+Como ejercicio, consiga un bolígrafo y papel y dibuje un mapa de su ciudad o
+pueblo. ¿Cuáles son las cosas más importantes para incluir en el mapa? ¿Cuál es
+la información más importante? Dedique unos minutos a hacer su mapa, y cuando
+haya terminado, piense por qué la información que se incluye es importante, y
+para quién podría ser importante.
+
+
 .. figure:: img/en_beg_01_introduction_image01_hand-drawn-map.png
     :alt:  Ejemplo de mapa dibujado a mano alzada
     :align: center
 
     Ejemplo de mapa dibujado a mano alzada
 
-Si tu ciudad es como la mayoría, habrás dibujado algunas líneas que representan
-carreteras, tal vez un río o torrente. Puede que hayas añadido edificios
-importantes como colegios y oficinas, campos o límites. Para cualquier cosa que
-hayas dibujado, probablemente hayas usado símbolos (una línea para representar
-una carretera, un rectángulo para dibujar un edificio, etc.). Tu mapa es una
-representación de lo que existe en el terreno.
+Si su ciudad es como la mayoría, es posible que haya dibujado unas líneas para
+representar caminos, posiblemente, un río o arroyo. Tal vez haya agregado
+edificios importantes tales como escuelas y oficinas, campos, o límites. Lo que
+sea que dibujaste, probablemente usó símbolos - una línea para simbolizar un
+camino, un cuadrado para simbolizar un edificio, y así sucesivamente. Su mapa es
+una representación de lo que hay en el suelo.
 
 .. figure:: img/en_beg_01_introduction_image02_examples-of-symbols.png
     :alt: Ejemplos de símbolos
@@ -59,15 +59,15 @@ representación de lo que existe en el terreno.
 
     Ejemplos de símbolos
 
-Tu mapa es información. Podrías usar un mapa como éste para explicar a
-alguien dónde se encuentran diferentes lugares, dónde se encuentran los
-problemas en tu comunidad, o simplemente para ayudar a alguien a moverse por el
-lugar. Los usos de tu mapa por otro lado son limitados. Solo hay una copia del
-mismo y la forma en que lo dibujaste solo tiene sentido para ti, pero tal vez no
-lo tenga para otra persona que habría dibujado lo mismo de otra forma. Porque tu
-mapa es simplemente un trozo de papel, es difícil llevar esa información a otras
-personas. Por esta razón puede tener mucha más utilidad hacer tu mapa en una
-computadora, de tal forma que cualquiera pueda acceder al mismo.
+Su mapa es informativo. Puede usar un mapa como este para explicar a alguien
+donde están diferentes lugares, donde están los problemas en su comunidad, o
+simplemente para ayudar a alguien a encontrar su camino. El uso de su mapa es
+limitado, ya que sólo hay una copia del mapa. El modo en que dibujó puede tener
+sentido para ti, pero quizás no para otra persona que habría dibujado su propio
+mapa de una manera diferente. Debido a que su mapa solo está en el papel, es
+difícil llevar esa información a otras personas. Esta es la razón por la que
+hacer su mapa en un equipo, de tal manera que cualquiera pueda acceder, pueda
+ser mucho más valioso.
 
 .. figure:: img/en_beg_01_introduction_image03_mapping-on-computer.png
     :alt: Cartografiando en una computadora
@@ -75,15 +75,14 @@ computadora, de tal forma que cualquiera pueda acceder al mismo.
 
     Cartografiando en una computadora
 
-OpenStreetMap es una herramienta para crear y compartir información
-cartográfica. Cualquiera puede contribuir a OSM y miles de personas se suman al
-proyecto cada día. Los usuarios dibujan mapas en sus computadoras, en lugar de
-hacerlo en papel, como veremos en esta guía, dibujar un mapa en una
-computadora no es tan diferente de hacerlo sobre papel. De igual forma
-dibujaremos líneas para representar carreteras, campos y todo lo demás y del
-mismo modo representamos escuelas y hospitales con símbolos. Lo más importante
-es que los mapas OSM se guardan en Internet y cualquiera puede acceder a ellos
-en cualquier momento, son totalmente libres y gratuitos.
+OpenStreetMap es una herramienta para crear y compartir la información del mapa.
+Cualquiera puede contribuir a OSM, y miles de personas se suman al proyecto cada
+día. Los usuarios dibujan mapas en sus equipos, en lugar de papel, pero como
+veremos en esta guía, dibujar un mapa en un equipo no es tan diferente de
+dibujarlo en papel. Aún dibujamos líneas para representar los caminos, campos, y
+cualquier otra cosa, y también representamos a las escuelas y hospitales con
+símbolos. Lo importante es que los mapas de OSM se guardan en Internet, y
+cualquiera puede acceder a ellos en cualquier momento, totalmente libre.
 
 
 .. figure:: img/en_beg_01_introduction_image04_digital-maps-with-osm.png
@@ -92,10 +91,9 @@ en cualquier momento, son totalmente libres y gratuitos.
 
     Mapas digitales con OpenStreetMap
 
-
-Esperamos que encuentres OpenStreetMap útil e interesante en tu trabajo.
-Siguiendo esta guía serás capaz de crear mapas digitales rápidamente y añadirlos
-a OSM.
+Esperamos que encuentre OpenStreetMap útil e interesante en su
+trabajo. Siguiendo esta guía, debería ser capaz de arrancar rápidamente
+elaborando mapas digitales con OpenStreetMap.
 
 El proceso de producción de OSM
 ---------------------------------------
