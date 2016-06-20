@@ -1,16 +1,20 @@
 .. _introduccion:
 
-============
-Introducción
-============
+======================================
+Introducción: ¿Qué es OSM y el HOT?
+======================================
 
-¿Qué es OSM y el HOT?
-=====================
 
-.. note:: Texto extraído de la `guía de inicio de OSM <http://learnosm.org/es/beginner/introduction/>`_
+.. toctree::
+   :maxdepth: 2
+
+
+.. _intro-osm:
 
 Introducción a OpenStreetMap
----------------------------------
+======================================
+
+.. note:: Texto extraído de la `guía de inicio de OSM <http://learnosm.org/es/beginner/introduction/>`_
 
 La información es poderosa. Con buena información y el correcto entendimiento,
 los individuos y las comunidades son más capaces de mejorar sus vidas y tomar
@@ -95,8 +99,91 @@ Esperamos que encuentre OpenStreetMap útil e interesante en su
 trabajo. Siguiendo esta guía, debería ser capaz de arrancar rápidamente
 elaborando mapas digitales con OpenStreetMap.
 
+
+.. _intro-hot:
+
+Introducción al Equipo Humanitario de OSM
+============================================
+
+.. todo:: actualizar el wiki en español y traer
+
+.. note:: Texto extraído de la `portada del HOT en el wiki de OSM`_
+
+.. _portada del HOT en el wiki de OSM: http://wiki.openstreetmap.org/wiki/ES:Humanitarian_OSM_Team
+
+Desde los primeros tiempos de OpenStreetMap_, se anticipó que los datos libres
+y abiertos iban a ser tremendamente beneficiosos para la ayuda humanitaria y el
+desarrollo económico.
+
+La idea se confirmó durante el `terremoto de Haití en 2010`_ . Poco después, en
+agosto de 2010, HOT se constituyó en Estadus Unidos como una organización sin
+ánimo de lucro y obtuvo el registro 501(c)3 `como organización benéfica`_ en
+2013.
+
+Todo el mundo es bienvenido a contribuir en los objetivos del HOT a través del
+gestor de tareas `Tasking Manager`_); todo lo que se necesita es un `usuario en OpenStreetMap`_.
+
+Solo se pide que se intente seguir el mismo código de conducta que siguen los
+miembros con derecho a voto, que se puede ver en el `código de membresía del HOT`_ (en inglés).
+
+.. _terremoto de Haití en 2010: http://en.wikipedia.org/wiki/2010_Haiti_earthquake
+.. _como organización benéfica: http://hot.openstreetmap.org/donate
+.. _Tasking Manager: http://tasks.hotosm.org/
+.. _usuario en OpenStreetMap: https://www.openstreetmap.org/user/new
+.. _código de membresía del HOT: http://wiki.openstreetmap.org/w/images/2/2f/HOT_Membership_Code--proposal_for_annual_meeting_2014.pdf
+
+
+Misión y Objetivos del Equipo Humanitario de OSM
+---------------------------------------------------
+
+Misión
+"""""""""""
+
+* El Equipo Humanitario de OpenStreetMap (HOT) aplica los principios del *software* y los datos abiertos a la respuesta humanitaria y el desarrollo económico.
+
+Objetivos principales
+""""""""""""""""""""""""""
+
+* Ser el punto de conexión entre los actores de ayuda humanitaria y  las
+  comunidades de cartografía abierta
+
+* Proporcionar la creación de datos a distancia durante cualquier crisis
+
+* Recolectar y organizacr las fuentes de datos existentes
+
+* Apoyar despliegues en el campo
+
+* Ser un punto de distribución de datos libres
+
+* Desarrollar conocimiento y herramientas abiertas
+
+
+Promoción, Capacitación y Difusión
+"""""""""""""""""""""""""""""""""""""""
+
+* Jornadas de cartografía o *mapping parties*
+
+* Hablar, escribir, reunirse en comunidades humanitarias y con técnicos de las
+  Naciones Unidas
+
+* http://summit.hotosm.org/
+
+
+Pensar y Diseñar
+"""""""""""""""""""
+
+* Promocionar el desarrollo colaborativo y estándares web sencillos para compartir datos
+
+* Desarrollar mejoras técnicas en OSM y OSGeo en respuesta a las
+  necesidades sobre el terreno (apoyo en línea, verificación, adaptadores de
+  formato, sincronización con varios maestros..)
+
+
+.. _intro-produccion-osm:
+
+
 El proceso de producción de OSM
----------------------------------------
+============================================
 
 .. note:: Material extraído del `taller de OSM, JOSM y Tillemill`_
 
@@ -116,7 +203,7 @@ Los mapas se realizan siguiendo 3 pasos:
 * Renderizado de los mapas
 
 Toma de datos
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------
 
 Los datos se recopilan por observación directa, preferentemente empleando
 GPS, aunque pueden emplearse otros medios como fotografía aérea si los
@@ -143,7 +230,7 @@ Los orígenes más comunes de datos son:
 * Información previa existente que requiera ser incluida en un mapa.
 
 Subida de datos a los servidores de OpenStreetMap
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------
 
 Una vez recopilada la información, esta debe ser incorporada a la base de
 datos de OSM. Para ello existen diversos medios, aunque principalmente se
@@ -156,7 +243,7 @@ emplean clientes web como iD:
 
 y el cliente de escritorio JOSM:
 
-.. image:: img/josmgirona.png
+.. image:: img/josmupv.png
    :width: 600 px
    :alt: editor josm
    :align: center
@@ -208,13 +295,12 @@ Esta información adicional alfanumérica permite clasificar los datos para
 que el proceso de renderizado los muestre correctamente representados.
 
 Renderizado de los mapas
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------
 
-El proyecto OSM tiene `varios motores de renderizado
-<http://wiki.openstreetmap.org/wiki/Renderers>`_ tanto en 2D como en 3D que
-permiten obtener una imagen de la información de la base de datos. El principal
-motor de renderizado es el que utiliza la biblioteca Mapnik. Un proceso automático
-toma los datos desde la base de datos principal y los carga en una base de datos
+El proyecto OSM tiene `varios motores de renderizado`_  que permiten obtener una
+imagen de la información de la base de datos. El principal motor de renderizado
+es el que utiliza la biblioteca Mapnik_. Un proceso automático toma los datos
+desde la base de datos principal y los carga en una base de datos
 Postgresql/PostGIS para posteriormente renderizar tiles de 256x256 que son
 normalmente consumidos desde la web principal del proyecto.
 
@@ -223,80 +309,8 @@ normalmente consumidos desde la web principal del proyecto.
    :alt: mapa renderizado con mapnik
    :align: center
 
-
-Introducción al Equipo Humanitario de OSM
----------------------------------------------
-
-.. note:: Texto extraído de la `portada del HOT en el wiki de OSM`_
-
-.. _portada del HOT en el wiki de OSM: wiki.openstreetmap.org/wiki/ES:Humanitarian_OSM_Team
-
-Desde los primeros tiempos de OpenStreetMap_, se anticipó que los datos libres
-y abiertos iban a ser tremendamente beneficiosos para la ayuda humanitaria y el
-desarrollo económico.
-
-La idea se confirmó durante el `terremoto de Haití en 2010`_ . Poco después, en
-agosto de 2010, HOT se constituyó en Estadus Unidos como una organización sin
-ánimo de lucro y obtuvo el registro 501(c)3 `como organización benéfica`_ en
-2013.
-
-Todo el mundo es bienvenido a contribuir en los objetivos del HOT a través del
-gestor de tareas `Tasking Manager`_); todo lo que se necesita es un `usuario en OpenStreetMap`_.
-
-Solo se pide que se intente seguir el mismo código de conducta que siguen los
-miembros con derecho a voto, que se puede ver en el `código de membresía del HOT`_ (en inglés).
-
-.. _terremoto de Haití en 2010: http://en.wikipedia.org/wiki/2010_Haiti_earthquake
-.. _como organización benéfica: http://hot.openstreetmap.org/donate
-.. _Tasking Manager: http://tasks.hotosm.org/
-.. _usuario en OpenStreetMap: https://www.openstreetmap.org/user/new
-.. _código de membresía del HOT: http://wiki.openstreetmap.org/w/images/2/2f/HOT_Membership_Code--proposal_for_annual_meeting_2014.pdf
-
-
-Misión y Objetivos del Equipo Humanitario de OSM
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Misión
-"""""""""""
-
-* El Equipo Humanitario de OpenStreetMap (HOT) aplica los principios del *software* y los datos abiertos a la respuesta humanitaria y el desarrollo económico.
-
-Objetivos principales
-""""""""""""""""""""""""""
-
-* Ser el punto de conexión entre los actores de ayuda humanitaria y  las
-  comunidades de cartografía abierta
-
-* Proporcionar la creación de datos a distancia durante cualquier crisis
-
-* Recolectar y organizacr las fuentes de datos existentes
-
-* Apoyar despliegues en el campo
-
-* Ser un punto de distribución de datos libres
-
-* Desarrollar conocimiento y herramientas abiertas
-
-
-Promoción, Capacitación y Difusión
-"""""""""""""""""""""""""""""""""""""""
-
-* Jornadas de cartografía o *mapping parties*
-
-* Hablar, escribir, reunirse en comunidades humanitarias y con técnicos de las
-  Naciones Unidas
-
-* http://summit.hotosm.org/
-
-
-Pensar y Diseñar
-"""""""""""""""""""
-
-* Promocionar el desarrollo colaborativo y estándares web sencillos para compartir datos
-
-* Desarrollar mejoras técnicas en OSM y OSGeo en respuesta a las
-  necesidades sobre el terreno (apoyo en línea, verificación, adaptadores de
-  formato, sincronización con varios maestros..)
+.. _varios motores de renderizado: http://wiki.openstreetmap.org/wiki/Renderers
+.. _Mapnik: http://mapnik.org/
 
 
 Los datos en OSM
@@ -519,7 +533,7 @@ mismas.
 
 
 Referencias y enlaces de interés
--------------------------------------
+============================================
 
 * `Página principal de OpenStreetMap   <http://www.openstreetmap.org/>`_
 * `Wiki de OpenStreetMap   <http://wiki.openstreetmap.org/>`_
