@@ -10,7 +10,7 @@ Revisión de los datos
 Comprobando los Datos OSM
 =========================
 
-.. note:: Esta sección cubre los procesos de control de la calidad de los
+.. important:: Esta sección cubre los procesos de control de la calidad de los
    datos, particularmente en el contexto de un proyecto dirigido de
    cartografiado de OSM, como los que lleva acabo el `Humanitarian
    OpenStreetMap Team <http://hotosm.org>`_ en varios países y como los
@@ -99,7 +99,7 @@ Cities de Dhaka. Para poder continuar se deben descargar los siguientes
 archivos: `dhaka_validation_example.osm
 <http://learnosm.org/files/dhaka_validation_example.osm>`_
 
-.. important:: NO SE DEBEN salvar los cambios en OpenStreetMap.  Estos
+.. warning:: NO SE DEBEN salvar los cambios en OpenStreetMap.  Estos
    ejercicios tienen solamente un carácter de demostración.
 
 .. image:: img/reviewing_osm_data_image03.png
@@ -280,15 +280,16 @@ error en este momento).
 
 - Se abre la búsqueda de nuevo y se introduce::
 
-  *"building:use"=mixed*
+  "building:use"=mixed
 
 - Nótese que las comillas son necesarias porque el carácter dos puntos (:)
   tiene su propio significado para el motor de búsqueda. Esta acción
   seleccionará el único edificio que tiene esa etiqueta. Ahora se puede
   remplazar su valor por **multipurpose**.
 
-**Se debe recordar que pese a seguir el tutorial, NO se deben guardar los
-cambios en OpenStreetMap. Se trata de un ejercicio meramente demostrativo**.
+.. warning:: Se debe recordar que pese a seguir el tutorial, NO se deben
+   guardar los cambios en OpenStreetMap. Se trata de un ejercicio meramente
+   demostrativo.
 
 Repetición del trabajo
 ----------------------
@@ -534,7 +535,3 @@ para practicar la revisión de datos OSM. Cuando se organiza un proyecto de
 cartografiado, o incluso cuando se están empleando los datos de un área para
 uso personal, estos métodos pueden resultar ventajosos.
 
-Documentación de referencia
-===========================
-
-* http://learnosm.org/es/coordination/review/
