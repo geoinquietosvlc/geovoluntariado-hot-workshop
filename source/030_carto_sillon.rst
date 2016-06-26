@@ -4,11 +4,11 @@
 Cartografía de sillón
 =====================================================
 
+.. note:: Texto extraído de la `guía de coordinación de OSM <http://learnosm.org/es/coordination/remote/>`_
+
 .. contents:: Contenidos
    :depth: 3
    :backlinks: none
-
-.. note:: Texto extraído de la `guía de coordinación de OSM <http://learnosm.org/es/coordination/remote/>`_
 
 La edición a distancia y su lugar en el equipo HOT
 =====================================================
