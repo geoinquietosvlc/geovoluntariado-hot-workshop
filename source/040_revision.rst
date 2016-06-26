@@ -7,8 +7,9 @@ Revisión de los datos
 .. note:: Texto extraído de la `guía de coordinación de OSM <http://learnosm.org/es/coordination/review/>`_
 
 
-Comprobando los Datos OSM
-=========================
+.. contents:: Contenidos
+   :depth: 3
+   :backlinks: none
 
 .. important:: Esta sección cubre los procesos de control de la calidad de los
    datos, particularmente en el contexto de un proyecto dirigido de
