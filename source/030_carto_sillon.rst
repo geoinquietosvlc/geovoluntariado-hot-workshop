@@ -4,282 +4,293 @@
 Cartografía de sillón
 =====================================================
 
+.. contents:: Contenidos
+   :depth: 3
+   :backlinks: none
+
 .. note:: Texto extraído de la `guía de coordinación de OSM <http://learnosm.org/es/coordination/remote/>`_
 
 La edición a distancia y su lugar en el equipo HOT
 =====================================================
 
-La edición cartográfica a distancia a menudo se la denomina *Armchair mapping*
-en la comunidad anglófona. Esta es seguramente la modalidad de edición que
-harás si asistes a un *mapatón*. Aprender acerca de todo el proceso te va a
-ayudar a entender qué es lo que se espera de ti. Mucha gente a lo largo del
-mundo se involucra en el trabajo del HOT, y cuando empiezas a trabajar a
-distancia editando cartografía tú también formas parte de ese equipo, el cual
-tiene muchos roles, incluyendo (¡y esto no es una lista exhaustiva!):
+El mapeo remoto también se conoce como 'mapeo desde el sillón', y esto
+es probablemente el tipo de mapeo que va a hacer si asiste a un
+Mapathon. Le ayudará a entender lo que se necesita si sabe más acerca de
+todo el proceso. Muchas personas en todo el mundo están involucrados en
+hacer funcionar a HOT, y al iniciar el mapeo remoto pasa a formar parte
+de ese equipo, que tiene muchos roles disponibles, incluyendo (¡Esta no
+es la lista completa!):
 
+-  Abastecimiento y preparación de imágenes de satélite,
+-  Asegurarse de que no hay implicaciones legales, como los derechos de
+   autor,
+-  Coordinación con los organismos de ayuda,
+-  Garantizar los datos están disponibles en un formato que las agencias
+   de ayuda pueden utilizar, por ejemplo, mapas de Garmin, mapas de
+   OsmAnd, y exportaciones de programas en particular,
+-  Preparación de material didáctico,
+-  Presentación de las tareas en un formato que otros pueden utilizar
+   para crear los mapas,
+-  Toma de contacto con la población local, y enseñarles acerca de HOT,
+-  Enseñar a la población local cómo hacer estudios de campo y
+   actualizar los datos que poseen y otros utilizan,
+-  Asegurarse de que la población local se haga cargo de mantener los
+   datos del mapa que se ha preparado - que se "adueñen" de eso,
+-  Y mapeo a distancia.
 
-- Obteniendo y preparando imágenes de satélite,
+**Mapeo a distancia** es la tarea más trabajosa. Ha habido muchos
+intentos de crear herramientas de software para reemplazar a los
+mapeadores a distancia, pero todos han fracasado hasta ahora. En
+resumen, el mapeo a distancia es el proceso de usar un programa de
+software, trazar información desde imágenes de satélite, y la
+posibilidad de subir el resultado para que forme parte de los datos de
+los mapas. Es una habilidad que se puede adquirir con paciencia. No hay
+"mapeadores" perfectos y aunque usted (y todos los demás) va a hacer
+todo lo posible para evitar errores, los errores son inevitables. El
+equipo HOT trabaja en conjunto para mantener los errores al mínimo y
+corregirlos cuando se encuentran - cometerá errores, así como cada uno
+de nosotros ha tenido - por favor no abandone, simplemente aprenda de
+ellos y mejore.
 
-- Asegurando que no hay implicaciones legales como el *copyright*,
-
-- Coordinando acciones con agencias de ayuda,
-
-- Asegurando que los datos están disponibles en un formato que las agencias
-  pueden usar, tal como mapas *Garmin* u *Osmand*, así como exportaciones para
-  ciertos programas en particular,
-
-- Preparando materiales educativos,
-
-- Presentando las tareas en un formato que otros pueden usar para crear mapas,
-
-- Estableciendo contacto con habitantes de la zona, y formándoles acerca del
-  HOT,
-
-- Formando a habitantes de la zona acerca de cómo hacer toma de datos en el
-  terreno, actualizar los datos para su uso propio y el de otros actores,
-
-- Asegurando locales toman el control sobre las tareas de mantenimiento de los
-  datos geográficos que se han preparado, de que, en definitiva, son auténticos
-  *dueños* de sus datos,
-
-- Y la edición a distancia.
-
-La **edición remota** es la tarea de trabajo más intensiva. Se han realizado
-muchos intentos para intentar reemplazar a los contribuidores a distancia, pero
-hasta la fecha todos han fallado. En resumen, la edición cartográfica a
-distancia (*remote mapping*) es el proceso de utilizar un *software* para crear
-datos geográficos trazando sobre imágenes de satélite, así como la carga de los
-resultados de tal manera que pasan a formar parte de un mapa. Es una habilidad
-que se adquiere con paciencia. No hay cartógrafos perfectos, aunque tú (como
-todos los demás) haréis todo lo posible para evitar fallos, los fallos son
-inevitables. HOT trabaja duro para mantener los fallos al mínimo y corregirlos
-cuando se encuentran. Encontrarás fallos, tal y como hacemos todos y cada uno
-de nosotros, pero por favor no te rindas, simplemente aprende de ellos y
-mejora.
-
-Resumen de la edición de cartografía a distancia, en mapatón o de salón
-=========================================================================
+Descripción general de Edición a distancia, desde el sillón o Mapathon
+-----------------------------------------------------------------------
 
 1. Un administrador selecciona un área que requiere de actualización en
-   OpenStreetMap. El administrador se asegura de que existen las imágenes de
-   satélite adecuadas y que están disponibles para que los editores puedan
-   delinear sobre ellas, y crea un proyecto que cubre el área de trabajo. El
-   jefe de proyecto establece el nivel de detalle requerido, la urgencia del
-   trabajo, así como cualquier otra información que el editor a distancia pueda
-   requerir. Cuando está satisfecho, el administrador publica el proyecto en el
-   Gestor de Tareas (*Tasking Manager*)
-   `tasks.hotosm.org <http://tasks.hotosm.org>`_, aunque así y todo podrá hacer
-   cambios más tarde si es necesario.
+   OpenStreetMap. El administrador se asegura que haya imágenes de
+   satélite adecuadas disponibles para que los mapeadores remotos puedan
+   trazar, y crea un proyecto que abarca la zona. El nivel de detalle
+   exigido y la urgencia se especifica en el proyecto junto con
+   cualquier otra información que el mapeador remoto requiriera. Cuando
+   esté satisfecho, el administrador publica el proyecto en el
+   Administrador de Tareas
+   `tasks.hotosm.org <http://tasks.hotosm.org>`__, aunque también pueden
+   hacer cambios más adelante si es necesario.
 
-2. Un editor a distancia selecciona una celda de una tarea, completa la edición
-   cartográfica y marca el rectángulo como completado.
+2. Un mapeador remoto selecciona la tarea dentro de un cuadrado,
+   completa el mapeo en dicha área y marca el cuadrado como completo.
 
-3. Un segundo editor revisa que el cuadrado efectivamente está completado de
-   forma satisfactoria y marca el cuadrado como *validado*.
+3. Un segundo mapeador remoto verifica que el cuadrado esté completo
+   hasta un nivel satisfactorio y marca el cuadrado como 'validado'
 
-4. Se puede monitorizar el avance de la edición cartográfica del proyecto a
-   través de la pestaña *stats*, y el proyecto puede degradarse o archivarse a
-   discreción del administrador.
+4. El progreso del mapeo del proyecto puede ser monitoreado desde la
+   pestaña "estadísticas" del proyecto y el proyecto puede ser degradado
+   o archivado de acuerdo a lo que requiera el administrador.
 
-Antes de empezar
-================
+Antes de comenzar
+-------------------
 
-Tómate un tiempo para echar un vistazo a estos recursos, son simplemente una
-lectura rápida para tener una idea aproximada sobre qué estamos hablando, y
-dónde buscar en caso de que necesites más información:
+Tómese unos minutos para mirar a cada uno de estos - sólo una lectura
+rápida para que sepa más o menos de que estamos hablando, y donde
+referirse cuando lo necesite:
 
--  `Sección sobre OpenStreetMap.org en LearnOSM
-   <http://learnosm.org/es/beginner/start-osm/>`_.  Esta sección cubre los
-   aspectos básicos acerca de OpenStreetMap, y revisarla te ayudará mucho. No
-   es un capítulo largo por lo que no te llevará mucho tiempo leerlo entero.
-   Mientras lo lees, aprovecha la ocasión para crear una cuenta en
-   OpenStreetMap, y para confirmar el enlace en correo que se te enviará.
-   Asegúrate de tener a buen recaudo tu nombre de usuario y contraseña de
-   acceso a OpenStreetMap.
+-  `La sección OpenStreetMap.org de
+   LearnOSM </es/beginner/start-osm/>`__. Esto cubre lo básico sobre
+   OpenStreetMap, y la lectura le ayudará mucho - no es un gran capítulo
+   por lo que no tomará mucho tiempo leer todo. Mientras está leyendo,
+   utilice la información para ayudarse a crear una cuenta de
+   OpenStreetMap, y confirmarla con el enlace de correo electrónico.
+   Asegúrese de tener un registro de su nombre de usuario y contraseña.
+-  `Sección Administrador de Tareas de
+   LearnOSM </es/coordination/tasking-manager/>`__. Tendrá que saber
+   cómo iniciar sesión en el Administrador de Tareas, encontrar un
+   proyecto en particular, seleccionar un cuadrado, y qué hacer con él.
+   ¡Necesita leer todo el capítulo!
 
--  `Sección sobre el Tasking Manager en LearnOSM
-   <http://learnosm.org/es/coordination/tasking-manager/>`_. Necesitarás esta
-   información para saber cómo acceder al *Tasking Manager*, encontrar un
-   proyecto en particular, seleccionar una celda de la cuadrícula, y qué hacer
-   con ella.  ¡Es necesario que leas el capítulo completo!
+También le gustará ver el corto de video aportado por
+`MapGive <http://mapgive.state.gov/learn-to-map/>`__ - tenga en cuenta
+el Administrador de Tareas OSM ha sido actualizado desde que se hizo el
+video - los principios son los mismos, pero los colores han cambiado.
 
-Es probable que también quieras ver un pequeño vídeo en inglés proporcionado
-por `MapGive <http://mapgive.state.gov/learn-to-map/>`_. Por favor, ten en
-cuenta que el *Tasking Manager* ha sido actualizado desde que se grabó el
-vídeo, los principios son los mismos pero los colores han cambiado.
+Software de edición
+~~~~~~~~~~~~~~~~~~~~
 
-Programas de edición
----------------------
+Aunque hay más programas de software disponibles, en este momento hay
+dos opciones principales. De una lectura rápida a los capítulos de
+LearnOSM que se indican a continuación y decida con qué editor desea
+comenzar - puede cambiar fácilmente de uno a otro en una etapa posterior
+si lo desea:
 
-Aunque hay más programas disponibles, en estos momentos hay dos opciones
-principales. Dale una lectura rápida a los capítulos de LearnOSM listados abajo
-y decide con qué editor prefieres empezar a trabajar. Puedes cambiar fácilmente
-de uno a otro más tarde si así lo decides:
+-  El editor de iD `sección LearnOSM en iD
+   Editor </es/beginner/id-editor/>`__. Este editor es ideal para los
+   nuevos en la edición de OpenStreetMap y tiene una curva de
+   aprendizaje suave. La última sección explica las diferencias entre
+   `iD y JOSM </es/beginner/id-editor/#id-versus-josm>`__, y
+-  JOSM, el editor de Java OpenStreetMap `LearnOSM - instalar y comenzar
+   con JOSM </es/josm/start-josm/>`__
 
-- El editor iD: `Sección en LearnOSM sobre iD
-  <http://learnosm.org/en/editing/id-editor/>`_. Este editor es ideal para
-  aquellos que son nuevos en la edición en OpenStreetMap y tiene una curva de
-  aprendizaje poco pronunciada. La última sección explica las `diferencias
-  entre iD y JOSM <http://learnosm.org/en/editing/id-editor/#id-versus-josm>`_.
+Mapeo a distancia - Empezando a mapear
+-----------------------------------------
 
-- JOSM, el editor Java de OpenStreetMap. `LearnOSM - instalación y primeros
-  pasos con JOSM <http://learnosm.org/es/beginner/start-josm/>`_.
+No nos abandone ahora - le hemos lanzado una gran cantidad de
+información, pero debería empezar a caer en su lugar cuando comience a
+mapear. Ha logrado mucho:
 
-Edición a distancia, comenzando a cartografiar
-------------------------------------------------
+-  Tiene una cuenta OpenStreetMap con un nombre de usuario y contraseña,
+-  Sabe lo que hace el Administrador de Tareas de OSM, y tiene una idea
+   de cómo lo va a usar, y
+-  Ha decidido con que software de edición va a comenzar, y tiene una
+   idea de cómo se utiliza.
 
-No nos abandones ahora, te hemos bombardeado con una enorme cantidad de
-información, que poco a poco se irá asentando conforme comiences a cartografiar
-de verdad. En realidad has conseguido mucho:
+Ahora vamos a seleccionar un cuadrado de un proyecto y empezar a
+mapearlo. Si usted está en un Mapathon, o ayudar de forma remota, los
+organizadores han proporcionado instrucciones sobre en que proyecto
+debería estar trabajando. Si está trabajando solo, mire la lista de
+proyectos en el Administrador de Tareas
+`tasks.hotosm.org <http://tasks.hotosm.org>`__ para tratar de encontrar
+un proyecto que sea adecuado para principiantes, y elija un proyecto.
+Probablemente ha dado una lectura rápida a la información en la pestaña
+de instrucciones del proyecto, pero hay que entender a fondo lo que se
+necesita - ¿Necesita volver a leerlo?
 
-- Tienes una cuenta en OpenStreetMap con un usuario y una contraseña.
-
-- Sabes qué hace el *Tasking Manager* de OSM, y tienes una idea de cómo lo
-  usarás.
-
-- Has decidido con qué programa vas a comenzar a editar, y tienes cierta idea
-  de cómo se usa.
-
-Vamos a seleccionar una celda desde un proyecto y a comenzar a cartografiarlo.
-Si estás en un *mapatón*, o asistiendo de forma remota, los organizadores te
-habrán dado instrucciones sobre qué proyecto vas a trabajar. Si estás
-trabajando por tu cuenta, echa un vistazo a los proyectos del *Tasking Manager*
-`tasks.hotosm.org <http://tasks.hotosm.org>`_ y trata de encontrar uno que sea
-adecuado para principiantes. Probablemente ya hayas leído al menos sucintamente
-la información de la pestaña del proyecto relativa a instrucciones, pero es
-importante que comprendas bien qué es lo que se necesita, ¿tal vez quieras leer
-otra vez esta información?
-
-Habiendo elegido un proyecto sobre el que trabajar, ahora selecciona una celda
-y finalmente, usando la lista desplegable, cárgala en el editor de tu elección.
+Una vez seleccionado el proyecto en el que va a trabajar, seleccione un
+cuadrado y luego usando la lista desplegable, cárguelo en su editor
+elegido.
 
 Vista inicial - JOSM
-~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: img/JOSM_1.png
-    :align: center
+   :alt: Vista inicial de JOSM
 
-1. El límite de tu celda se marca mediante un sombreado externo a rallas. Hay
-   un ligero solape entre celdas, de forma que una entidad en tu celda que
-   acaba en el límite también aparecerá en la celda adyacente. Solo deberías
-   cartografiar las entidades que están completamente dentro de tu celda para
-   evitar *confilctos*, que se explican en otra sección.
+   Vista inicial de JOSM
 
-
-.. note:: Si no ves el límite a rallas, tal vez tengas instalado el
-   complemento **Download OSM data continuously**. Para arreglar esto debes
-   desactivar la casilla en el menú *File* de JOSM, borrar los datos
-   descargados y volverlos a descargar usando el *Tasking Manager*.
-
-
-2. La escala de tu vista se indica en este lugar. Esta es una celda muy
-   pequeña, con un lado de unos 40.8 metros. Una celda habitualmente consiste
-   en un rectángulo de varios kilómetros.
-
-3. Es probable que se descarguen algunas entidades ya existentes en la base de
-   datos de OSM. Las exploraremos dentro de un momento.
-
-4. En este caso no hay ningún tipo de imagen de satélite cargada y por lo tanto
-   tendremos que cargarla manualmente. Las instrucciones para este proyecto en
-   particular nos dicen que se debe utilizar la imagen de Bing, que puede
-   cargarse rápidamente haciendo clic en la palabra *Imagery*, y después
-   seleccionando *Bing* de la lista desplegable. Para cargar las imágenes
-   rápidamente, verás que ayuda hacer *zoom* hacia afuera (girando la rueda del
-   ratón hacia ti) y luego hacer *zoom* hacia dentro.
+1. El límite de su cuadrado se indica mediante el rayado cruzado. Hay un
+   muy ligero solapamiento de los cuadrados, por lo que un elemento en
+   su cuadrado que esté en la frontera aparecerá dentro del límite del
+   cuadrado adyacente. Sólo debe mapear los elementos del mapa dentro de
+   su cuadrado para evitar 'conflictos', que se explican en otra parte.
+   > Si el rayado cruzado delimitador no es visible, es posible que haya
+   instalado el plugin '*Descargar continua de datos OSM*\ '. Para
+   corregir esto tendrá que quitar el tic de este plugin en el menú
+   Archivo de JOSM, borrar los datos descargados, y descargarlos de
+   nuevo utilizando el Administrador de Tareas.
+2. La escala de la vista se indica aquí. Este es un cuadrado muy
+   pequeño, con una cifra de 40,8 metros - esta cifra es a menudo de
+   varios kilómetros.
+3. Varios elementos ya existen en la base de datos de OpenStreetMap, y
+   éstas se han cargado. Vamos a explorarlas en un momento.
+4. No hay imágenes de fondo cargadas en esta ocasión y tendrá que
+   cargarla manualmente - las instrucciones de este proyecto en
+   particular muestran que se debe cargar imaginería de Bing, y esto
+   puede ser cargarse rápidamente haciendo clic en la palabra "imágenes"
+   y a continuación, seleccionando 'Bing' en la lista desplegable. Es
+   posible que deba alejar el zoom (girar la rueda central del ratón
+   hacia usted) y luego acercar de nuevo para ayudar a cargar
+   rápidamente las imágenes.
 
 Vista inicial alternativa - JOSM
-""""""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. figure:: /img/JOSM_3.png
-    :align: center
+.. figure:: img/JOSM_3.png
+   :alt: Vistia inicial alternativa JOSM
 
-1. El sombreado a rayas indica el límite de la celda, las imágenes de Bing se
-   han cargado, pero a esta escala estas imágenes no son detalladas.
+   Vistia inicial alternativa JOSM
 
-2. La escala indica 2.61km, esta es una zona de cobertura bastante grande.
+1. Límites del cuadrado se indica mediante el rayado cruzado. Las
+   imágenes de Bing se ha cargado, pero a esta escala las imágenes no
+   tienen detalle.
+2. La línea de escala indica 2,61 kilometros - esta es una zona de
+   cobertura muy amplia.
 
 Vista inicial - iD
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: img/iD_1.png
-    :align: center
+   :alt: Vistia inicial de iD
 
-1. El borde de la celda se indica mediante una línea morada. Hay un pequeño
-   solape entre las celdas, por lo que una entidad en tu celda que sobrepasa el
-   límite también aparecerá sobre el límite de la celda adyacente. Solo
-   deberías cartografiar las entidades que están completamente dentro de tu
-   celda para evitar *confilctos*, que se explican en otra sección.
+   Vistia inicial de iD
 
-2. La escala de tu vista se indica en este lugar. Esta es una celda muy
-   pequeña, con la línea de 100 metros extendiéndose bastante en proporción a
-   la longitud del lado de la celda. Esta forma normalmente es de varios
+1. El límite de su cuadrado se indica mediante una línea morada. Hay un
+   muy ligero solapamiento de los cuadrados, por lo que un elemento en
+   su cuadrado que esté en la frontera aparecerá dentro del límite del
+   cuadrado adyacente. Sólo debe mapear los elementos del mapa dentro de
+   su cuadrado para evitar 'conflictos', que se explican en otra parte.
+2. La escala de la vista se indica aquí. Este es un cuadrado muy
+   pequeño, con la línea de 100 metros que se extiende bastante lejos en
+   proporción a la longitud del cuadrado - esta cifra es a menudo varios
    kilómetros.
-
-3. En la base de datos de OpenStreetMap ya existen algunas entidades, las
-   cuales se han cargado en la vista. Exploraremos más sobre esto en un
-   momento.
-
-4. Se ha cargado la ortoimagen de Bing como imagen de fondo.
+3. Varios elementos ya existen en la base de datos de OpenStreetMap, y
+   éstas se han cargado. Vamos a explorarlas en un momento.
+4. La imaginería de Bing ya se ha cargado como fondo.
 
 Vista inicial alternativa - iD
-""""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: img/iD_4.png
-    :align: center
+   :alt: Vista inicial alternativa de iD
 
-1. Límite de la celda.
+   Vista inicial alternativa de iD
 
-2. Para esta celda la escala indicada es de 5 kilómetros, y a esta escala los
-   botones de edición que se encuentran en la parte superior de la pantalla se
-   muestran en gris, indicando que no son seleccionables.
+1. Límites del cuadrado.
+2. Para este cuadrado la escala indicada es 5 km, en la que los botones
+   de edición en la parte superior de la pantalla aparecen en gris y no
+   se pueden seleccionar.
 
-Comprobando los datos existentes - JOSM
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+Comprobación de los datos existentes - JOSM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: img/JOSM_2.png
-    :align: center
+   :alt: Comprobando datos con JOSM
 
-1. Al hacer clic en una de las muchas entidades de los datos de OSM, ésta se
-   colorea de rojo.
+   Comprobando datos con JOSM
 
-2. En el panel **Tags/Memberships** de la derecha se puede ver que la entidad
-   se ha etiquetado con la clave de carretera (*highway*) y el valor de
-   residencial (*residential*). Para facilitar la nomenclatura a lo largo del
-   texto, estos pares clave valor de las etiquetas se referenciarán como
-   *highway=residential*.
+1. He hecho clic en uno de los elementos existentes en los datos de OSM,
+   y ahora es de color rojo en la pantalla.
+2. En el panel :guilabel:`Etiquetas/Membresías` a la derecha se puede
+   ver que esta función se etiqueta con la clave de la carretera y un
+   valor de residencial. Para facilitar la consulta de este denomina
+   como
+   highway=residential
 
-En la siguiente sección de esta guía se indica cómo se deberían cartografiar y
-etiquetar las entidades.
+La siguiente sección de esta guía indica cómo deben ser mapeados y
+etiquetados los elementos.
 
-Chequeando los datos existentes - iD
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Comprobación de los datos existentes - iD
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: img/iD_2.png
-    :align: center
+   :alt: Comprobación de datos con iD
 
-1. Al hacer clic en una de las entidades de datos OSM existentes, ésta se
-   destaca con un borde rojo, además iD muestra las herramientas disponibles.
+   Comprobación de datos con iD
 
-2.  iD presenta en el panel de la parte izquierda de la pantalla un conjunto de
-    etiquetas potenciales que se pueden usar sobre esta entidad, pero para
-    nuestro propósito se ha usado la barra de desplazamiento para bajar a la
-    sección **All tags** donde se puede ver que la entidad tiene la etiqueta
-    **highway** y el valor **residential**.
+1. He hecho clic en uno de los elementos existentes en los datos de OSM,
+   y ahora se destaca con un borde rojo en la imagen, y iD está
+   mostrando las herramientas disponibles.
+2. iD me presentó con una serie de posibles etiquetas que podría
+   utilizar esta característica en el lado izquierdo de la pantalla,
+   pero para nuestro propósito he utilizado la barra de desplazamiento
+   para bajar al rubro **Todas las etiquetas** donde podemos ver que la
+   función tiene una clave de **carretera** y un valor de
+   **residencial**. Para facilitar la consulta de este denomina como
+   highway=residential
+3. La persona que ha mapeado el cuadrado adyacente ha trazado una
+   carretera de su cuadrado justo en la frontera en mi cuadrado y luego
+   se detuvo. Esta es la forma correcta de 'entregar' una carretera o
+   elemento en la frontera de su cuadrado.
 
-3. La persona que ha cartografiado la celda contigua ha dibujado la carretera
-   desde su celda justo por encima de del borde de mi celda y ha parado ahí.
-   Esta es la forma correcta de *entregar* en una celda contigua una carretera
-   o cualquier otra geometría.
+La siguiente sección de esta guía indica cómo deben ser mapeadas y
+etiquetadas las características `Trazar carreteras, edificios, agua y
+uso de la tierra </es/coordination/remote-tracing/>`__.
 
-En la siguiente sección de esta guía se indica cómo se deberían cartografiar y
-etiquetar las entidades.
+Otras lecturas
+-----------------
+
+-  `Consejos de Mapeo HOT en África Occidental del usuario
+   Bgirardot <http://wiki.openstreetmap.org/wiki/User:Bgirardot/Typical_Road_and_Residential_Task>`__
+-  `Entrada del wiki OSM sobre
+   validación <http://wiki.openstreetmap.org/wiki/OSM_Tasking_Manager/Validating_data>`__
+-  `Etiqueta Highway África - la referencia preferida para el etiquetado
+   de carreteras en
+   África <http://wiki.openstreetmap.org/wiki/Highway_Tag_Africa>`__
+-  `Tutorial Corto en francés para el mapeo a
+   distancia <http://blog.cartong.org/2014/07/24/tuto-digitaliser-sous-openstreetmap-avec-le-tasking-manager-et-josm-premiers-pas/>`__
+
 
 Cartografiando entidades
---------------------------
+===========================
 
 Carreteras
-~~~~~~~~~~~~~
+--------------
 
 En OpenStreetMap cualquier tipo de carretera, de autopistas a pistas y caminos,
 se etiquetan como *highway*. Es importante que las carreteras se añadan
@@ -305,7 +316,7 @@ correctamente a la base de datos, ya que se emplean de muy diversas maneras:
   efectivamente puedes observar ese cruce de caminos en el mapa.
 
 Cómo cartografiar carreteras
-""""""""""""""""""""""""""""""""
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: img/iD_3.png
     :align: center
@@ -343,7 +354,7 @@ Cómo cartografiar carreteras
    seis nodos.
 
 La red de carreteras
-""""""""""""""""""""""""
+~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: img/JOSM_4.png
     :align: center
@@ -369,7 +380,6 @@ la captura de pantalla.
    útiles y será necesario investigarlas más para comprobar si se pueden
    conectar de alguna manera al resto de la red de carreteras, o si tal vez
    sería conveniente simplemente borrarlas.
-
 
 .. figure:: img/iD_5.png
     :align: center
@@ -407,7 +417,7 @@ así ver el terreno.
    volverlo a reponer utilizando la herramienta deshacer (*undo*) de iD.
 
 Límite de zonas residenciales
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------
 
 Los límites de las zonas residenciales se utilizan en OpenStreetMap para todo
 tipo de propósitos.
@@ -443,7 +453,7 @@ tipo de propósitos.
   lugar.
 
 Cómo cartografiar *landuse=residential*
-"""""""""""""""""""""""""""""""""""""""""""
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **En un mundo ideal**
 
@@ -504,7 +514,7 @@ celdas individuales, un validador tenga que repasarlas para limpiar el límite
    nodos.
 
 Edificios, recintos y barreras
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------
 
 Hay varias razones por las que es interesante añadir edificios al mapa:
 
@@ -524,7 +534,7 @@ Hay varias razones por las que es interesante añadir edificios al mapa:
   (enero de 2015) en discusión para un uso futuro.
 
 Cómo cartografiar edificios
-"""""""""""""""""""""""""""""""
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La gran mayoría de los edificios que el HOT cartografía están o bien basados en
 formas rectagulares con esqinas cuadradas o bien son circulares. Si un edificio
@@ -537,7 +547,7 @@ también puede ser que la tarea especifique que se marquen los edificios
 mediante nodos individuales, aunque estas situaciones son raras hoy en día.
 
 *building=yes*
-'''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^
 
 Salvo que las instrucciones del proyecto digan otra cosa, los edificios deben
 etiquetarse mediante el par *building=yes*.
@@ -597,7 +607,7 @@ el lugar que ocupa el edificio sobre el terreno:
    edificio.
 
 Distorsión en la forma de los edificios en las imágenes de satélite
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. figure:: img/Buildings_2.png
     :align: center
@@ -618,7 +628,7 @@ Para más información, consultar los enlaces siguientes con más guías e
 información útil.
 
 Lecturas adicionales
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - `Consejos del usuario Bgirardot para el trabajo de HOT en África Oeste <http://wiki.openstreetmap.org/wiki/User:Bgirardot/Typical_Road_and_Residential_Task>`_.
 
@@ -627,8 +637,3 @@ Lecturas adicionales
 - `La guía de referencia para el etiquetado de carreteras en África <http://wiki.openstreetmap.org/wiki/Highway_Tag_Africa>`_.
 
 - `Pequeño tutorial sobre edición a distancia <http://blog.cartong.org/2014/07/24/tuto-digitaliser-sous-openstreetmap-avec-le-tasking-manager-et-josm-premiers-pas/>`_.
-
-Documentación de referencia
-===========================
-
-* http://learnosm.org/es/coordination/remote/
