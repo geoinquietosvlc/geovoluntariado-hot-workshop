@@ -4,6 +4,11 @@
 Cómo montar Mapping Parties y Mapatones para el HOT
 ======================================================
 
+.. contents:: Contenidos
+   :depth: 3
+   :backlinks: none
+
+
 Mapping Party *How To*
 ==============================
 
@@ -12,11 +17,12 @@ Mapping Party *How To*
 ¿Qué es una *mapping party*?
 --------------------------------------
 
-Una *mapping party* es donde un gru,,po de colaboradores de OpenStreetMap
+Una *mapping party* es donde un grupo de colaboradores de OpenStreetMap
 (veteranos y novatos) se dirigen a algún lugar para cartografiarlo en detalle,
 normalmente durante un fin de semana. Es un tipo de evento muy social, donde
 la gente habitualmente se reúne y charla entre sesiones de toma de datos
-(normalmente en un bar). Una sesión de toma de datos consiste en repartir
+(normalmente en un bar, una biblioteca o un centro cultural).
+Una sesión de toma de datos consiste en repartir
 entre los participantes un área dividida en zonas, y se sale a cartografiarla,
 bien en coche, en bicicleta o andando. Para una descripción más detallada de
 qué es una *mapping party* puedes echar un vistazo a la página `Mapping
@@ -133,22 +139,21 @@ Otros
 Durante el evento
 -----------------------
 
-* Asegúrate de tener el *hardware* y *software* necesarios como:
+Asegúrate de tener el *hardware* y *software* necesarios como:
 
-  * Lector de tarjetas SD (para las unidades NaviGPS y similares)
-
-  * Un cable de serie para Garmin (y un conversor de serie a USB si lo vas a necesitar)
-
-  * JOSM_
-
-  * GPSBabel_
-
-  * El *software* Navilink (para las unidades NaviGPS)
-
-  * Cámara de fotos
+* Lector de tarjetas SD (para las unidades GPS y similares)
+* Un cable de serie para Garmin (y un conversor de serie a USB
+  si lo vas a necesitar)
+* JOSM_
+* GPSBabel_
+* El *software* para las unidades GPS si es necesario
+* Cámara de fotos
+* Herramientas para móviles como `OSM Contributor Mapping Tool`_ o Vespucci_
 
 .. _JOSM: https://wiki.openstreetmap.org/wiki/JOSM
 .. _GPSBabel: https://wiki.openstreetmap.org/wiki/GPSBabel
+.. _OSM Contributor Mapping Tool: https://wiki.openstreetmap.org/wiki/OSM_Contributor_Mapping_Tool
+.. _Vespucci: http://wiki.openstreetmap.org/wiki/Vespucci
 
 Unidades GPS
 ~~~~~~~~~~~~~~~
@@ -173,7 +178,7 @@ vais a necesitar para trabajar hacer uso de `unidades GPS`_.
 .. _unidades GPS: https://wiki.openstreetmap.org/wiki/GPS_Unit
 
 
-.. _mp_publi:
+.. _mp-publi:
 
 Publicidad
 -----------------
@@ -315,54 +320,54 @@ Obtener retroalimentación de la actividad
 
 Ideas para las preguntas que se podrían hacer a cada uno de los asistentes...
 
-Nos encantaría conocer tu opinión sobre la actividad de hoy, nos ayuda a hacer
-estas *mapping parties* aún mejores y así mejorar vuestra experiencia y en
-definitiva crear un mejor mapa.
+  Nos encantaría conocer tu opinión sobre la actividad de hoy, nos ayuda a hacer
+  estas *mapping parties* aún mejores y así mejorar vuestra experiencia y en
+  definitiva crear un mejor mapa.
 
 
-* ¿Qué días estuviste?
+  * ¿Qué días estuviste?
 
-* ¿Te consideras un local, o tuviste que viajar para venir a la actividad? Local/No local
+  * ¿Te consideras un local, o tuviste que viajar para venir a la actividad? Local/No local
 
-* ¿Habías asistido anteriormente a una *mapping party*? Sí/No
+  * ¿Habías asistido anteriormente a una *mapping party*? Sí/No
 
-* ¿Habías contribuido a OSM con anterioridad? Sí/No
+  * ¿Habías contribuido a OSM con anterioridad? Sí/No
 
-* Si es así, ¿habías obtenido datos anteriormente usando un GPS? Sí/No
+  * Si es así, ¿habías obtenido datos anteriormente usando un GPS? Sí/No
 
-* ¿Fecha de llegada?
+  * ¿Fecha de llegada?
 
-* ¿Hora de salida prevista?
+  * ¿Hora de salida prevista?
 
-* ¿Traes tu propio GPS o te lo hemos prestado? Mío/Préstamo
+  * ¿Traes tu propio GPS o te lo hemos prestado? Mío/Préstamo
 
-* Si te lo hemos prestado, ¿cómo de difícil te ha sido usarlo?
-  (1=fácil, 10=difícil) 1 2 3 4 5 6 7 8 9 10
+  * Si te lo hemos prestado, ¿cómo de difícil te ha sido usarlo?
+    (1=fácil, 10=difícil) 1 2 3 4 5 6 7 8 9 10
 
-* ¿Cuántas horas has estado fuera tomando datos?
+  * ¿Cuántas horas has estado fuera tomando datos?
 
-* Si hemos proporcionado refrescos, ¿eran lo que necesitabas? Sí/No
+  * Si hemos proporcionado refrescos, ¿eran lo que necesitabas? Sí/No
 
-* Si hemos proporcionado alimentos a la hora de la comida, ¿fueron de ayuda o
-  hubieras preferido ir por tu cuenta? Sí/Prefiero ir por mi cuenta
+  * Si hemos proporcionado alimentos a la hora de la comida, ¿fueron de ayuda o
+    hubieras preferido ir por tu cuenta? Sí/Prefiero ir por mi cuenta
 
-* ¿Esperas cuando te marches, continuar editando el mapa y añadir tu
-  conocimiento del día de hoy? Sí/No
+  * ¿Esperas cuando te marches, continuar editando el mapa y añadir tu
+    conocimiento del día de hoy? Sí/No
 
-* Si es que no, ¿hay algo que podamos hacer para convertirlo en un Sí?
+  * Si es que no, ¿hay algo que podamos hacer para convertirlo en un Sí?
 
-* Si necesitaste ayuda técnica, ¿cómo de útil fue?
-  (1=insuficiente, 10=más que suficiente): 1 2 3 4 5 6 7 8 9 10
+  * Si necesitaste ayuda técnica, ¿cómo de útil fue?
+    (1=insuficiente, 10=más que suficiente): 1 2 3 4 5 6 7 8 9 10
 
-* Como resultado del día, ¿qué probabilidades hay que asistas a otra *mapping
-  party* en el futuro? (1=poco probable, 10=seguro) 1 2 3 4 5 6 7 8 9 10
+  * Como resultado del día, ¿qué probabilidades hay que asistas a otra *mapping
+    party* en el futuro? (1=poco probable, 10=seguro) 1 2 3 4 5 6 7 8 9 10
 
-* ¿Te gustaría estar al tanto de la información relativa a los resultados de
-  esta *mapping party*? Si es así por favor danos tu dirección de correo
-  electrónico aquí:
+  * ¿Te gustaría estar al tanto de la información relativa a los resultados de
+    esta *mapping party*? Si es así por favor danos tu dirección de correo
+    electrónico aquí:
 
-* Si además, te gustaría que te informáramos por correo electrónico de otras
-  mapping parties* que podamos organizar en el futuro, marca esta casilla.
+  * Si además, te gustaría que te informáramos por correo electrónico de otras
+    mapping parties* que podamos organizar en el futuro, marca esta casilla.
 
 Enlaces
 --------------
@@ -408,13 +413,13 @@ en el que se convocó a la comunidad a pasar una noche en vela cartografiando.
 
 En mapatón por tanto es una sesión que tiene un objetivo doble:
 
-* Por un lado se pretende responder a una necesidad concreta y bien definida que
+* Por un lado se pretende **responder a una necesidad concreta y bien definida** que
   en general será una activación especialmente urgente del HOT_. Por lo tanto
   no es un taller exactamente, o una jornada para aprender sobre cómo funciona
   |OSM| sino como mucho para aprender lo justo para poder colaborar en los objetivos
   marcados.
 
-* Por otro lado es una ocasión excelente para atraer la atención de posibles
+* Por otro lado es una ocasión excelente para **atraer la atención** de posibles
   nuevos colaboradores, siempre va a ser atractivo ofrecer la oportunidad de
   participar en una actividad de ayuda **real** en un evento llamativo pero
   lejano.
@@ -422,21 +427,27 @@ En mapatón por tanto es una sesión que tiene un objetivo doble:
 Preparación
 ----------------
 
-En esencia la preparación de un *Mapatón* es muy similar a la de una *Mapping Party*
-normal, salvo que se trata de un evento mucho más reducido y por tanto sencillo
-de organizar. Un mapatón suele organizarse para una única jornada o incluso media
-jornada, seguramente por la tarde de forma que sea más sencillo para los asistentes
-acudir.
+En esencia la preparación de un *Mapatón* es muy similar a la de una *Mapping
+Party* normal, salvo que se trata de un evento mucho más reducido y por tanto en
+teoría sencillo de organizar. Un mapatón suele organizarse para una única
+jornada o incluso media jornada, seguramente por la tarde de forma que sea más
+sencillo para los asistentes acudir.
 
-Al igual que con una *Mapping Party* lo más importante es conseguir un buen lugar
-para trabajar. Algunas opciones habituales son:
+Al igual que con una *Mapping Party*, lo más importante es conseguir un buen
+lugar para trabajar. Algunas opciones habituales son:
 
 * Laboratorios con equipos informáticos en centros educativos, especialmente en
   universidades.
 * Espacios públicos con suficiente capacidad como bibliotecas o centros culturales
 * Espacios privados que se presten a ceder sus instalaciones como centros de
   *coworking*, organizaciones sin ánimo de lucro o incluso bares o cafeterías
-  si el día elegido suele ser tranquilo.
+  si el día elegido es tranquilo.
+
+.. figure:: https://farm2.staticflickr.com/1628/26478732772_42027f44a5_z_d.jpg
+  :align: right
+  :alt: Ejemplo de mapatón en unas oficinas
+
+  Ejemplo de mapatón en unas oficinas
 
 Lo mínimo que se necesita es:
 
@@ -463,7 +474,7 @@ Difusión
 -------------
 
 Se pueden seguir las mismas recomendaciones que se exponen en el apartado sobre
-:ref:`publicidad <_mp_publi>` de la sección anterior, considerando que el evento
+:ref:`publicidad <mp-publi>` de la sección anterior, considerando que el evento
 probablemente va a ser interesante para un entorno más local y que, en función de
 las capacidades del local y de la respuesta de la comunidad a llamamientos anteriores,
 puede ser interesante enfocar la difusión para colaboradores a OSM ya existentes,
@@ -547,7 +558,7 @@ interesante dividirlos en grupos de mayor o menor experiencia. Por ejemplo:
 
 
 Resultados y conclusiones
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 Es conveniente recordar a todos los colaboradores el utilizar algún tipo de etiqueta que
 permita filtrar los *changesets* o generar algún tipo de visualización como la ofrecida
@@ -560,6 +571,40 @@ aspectos relativos a la preparación y difusión del evento servirán para mejor
 de futuros mapatones no solo por el mismo equipo sino especialmente para aquellos nuevos
 colaboradores que se animen a organizar un mapatón en su ciudad.
 
+Hay que ser ágil
+-----------------------
+
+Es tremendamente importante conseguir ser ágil al organizar un mapatón del HOT.
+Los primeros días después de una catástrofe son los más importantes y conseguir
+ayudar **lo antes posible** a cartografiar la zona afectada debe ser el principal
+objetivo de un grupo de trabajo del HOT. Esto significa que las personas
+involucradas en preparar y coordinar un mapatón deben actuar de forma rápida
+y eficiente. Algunas indicaciones:
+
+- Tener canales de comunicación inmediatos para el grupo de coordinadores:
+  grupos de mensajería para móviles suelen funcionar bien (Telegram,
+  WhatsApp, Facebook, etc.)
+- Tener uno o varios espacios *candidatos* a los que acudir de forma inmediata.
+  Esto incluye haber coordinado previamente con los responsables de esos espacios
+  la posibilidad de necesitarlos con cierta urgencia. En ocasiones hay espacios
+  de los que no se puede disponer en fines de semana por ejemplo por temas de
+  seguridad.
+- Disponer de plantillas para acelerar la difusión al máximo incluyendo:
+
+  - Carteles y folletos
+  - Correos y mensajes para redes sociales
+  - Nota de prensa
+  - Presentaciones
+  - Etc.
+
+- Definir responsables y *backups* para cada área de coordinación:
+
+  - Definición del trabajo a realizar: tareas del *task manager*
+  - Logística: fecha y lugar
+  - Difusión: redes sociales, nota de prensa, etc
+
+  Esto por supuesto no significa que el responsable tiene que hacer todo el
+  trabajo de su área, sólo de que se haga.
 
 Referencias
 ------------------
