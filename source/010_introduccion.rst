@@ -4,14 +4,9 @@
 Introducción: ¿Qué es OSM y el HOT?
 ======================================
 
-
-Contenidos
-=====================
-
-* :ref:`intro-osm`
-* :ref:`intro-hot`
-* :ref:`intro-produccion-osm`
-* :ref:`intro-datos`
+.. contents:: Contenidos
+   :depth: 3
+   :backlinks: none
 
 
 .. _intro-osm:
