@@ -1,44 +1,48 @@
 .. _introduccion:
 
-============
-Introducción
-============
+======================================
+Introducción: ¿Qué es OSM y el HOT?
+======================================
 
-¿Qué es OSM y el HOT?
-=====================
+.. contents:: Contenidos
+   :depth: 3
+   :backlinks: none
+
+
+.. _intro-osm:
+
+Introducción a OpenStreetMap
+======================================
 
 .. note:: Texto extraído de la `guía de inicio de OSM <http://learnosm.org/es/beginner/introduction/>`_
 
-Introducción a OpenStreetMap
----------------------------------
-
-La información es poder. Con información de calidad y una evaluación correcta,
-individuos y comunidades se encuentran más capacitadas para mejorar sus vidas y
-tomar mejores decisiones sobre su futuro. Hay muchas personas y organizaciones
-que toman decisiones que afectan a nuestras vidas. Una información de calidad
-ayuda a ONGs, gobiernos y ciudadanos a tomar mejores decisiones y ojalá,
-mejorar también nuestras vidas. Los mapas pueden ser una buena forma de
-transmisión de información.
-
-Los mapas son símbolos visuales de nuestro mundo. A menudo demuestran una idea
-mucho mejor que las palabras. Éstos por lo tanto pueden ayudar a responder a
-decisiones importantes. ¿Dónde está la escuela u hospital más cercanos? ¿Quíén
-dispone del peor acceso a estas infraestructuras? ¿Dónde es más problemática la
-pobreza? Preguntas como éstas pueden a menudo ser expresadas de forma más
-eficiente mediante mapas y los mapas pueden ayudarnos a encontrar soluciones a
-estas cuestiones.
-
-Como ejercicio, toma un bolígrafo y dibuja un mapa de tu ciudad o pueblo. ¿Qué
-cosas son las más importantes a incluir en el mapa? ¿Cuál es la información más
-importante? Emplea algunos minutos en hacer tu mapa y cuando termines,
-reflexiona acerca de por qué la información que has incluido es importante y
-para quién podría serlo.
+La información es poderosa. Con buena información y el correcto entendimiento,
+los individuos y las comunidades son más capaces de mejorar sus vidas y tomar
+buenas decisiones sobre el futuro. Hay muchas personas y organizaciones que
+toman decisiones que afectan nuestras vidas. Buena información permite a estas
+ONGs (organizaciones no gubernamentales), gobiernos y ciudadanos tomar mejores
+decisiones, y con suerte nos hacen la vida mejor. Los mapas son una buena manera
+de transmitir información.
 
 .. figure:: img/en_beg_01_introduction_image00_village-in-indonesia.png
     :alt: Un pueblo de Indonesia
-    :align: center
+    :align: right
 
     Un pueblo de Indonesia
+
+Los mapas son símbolos visuales de nuestro mundo. A menudo puede demostrar una
+idea mejor que las palabras. Esto a su vez puede ayudarnos a responder preguntas
+importantes. *¿Dónde está la escuela u hospital más cercano? ¿Quién tiene menos
+acceso a estas instalaciones? ¿Dónde está la pobreza más problemática?*
+Preguntas como éstas pueden a menudo expresarse mejor con mapas, y los mapas
+pueden ayudar a encontrar soluciones a estas preguntas.
+
+Como ejercicio, consiga un bolígrafo y papel y dibuje un mapa de su ciudad o
+pueblo. ¿Cuáles son las cosas más importantes para incluir en el mapa? ¿Cuál es
+la información más importante? Dedique unos minutos a hacer su mapa, y cuando
+haya terminado, piense por qué la información que se incluye es importante, y
+para quién podría ser importante.
+
 
 .. figure:: img/en_beg_01_introduction_image01_hand-drawn-map.png
     :alt:  Ejemplo de mapa dibujado a mano alzada
@@ -46,12 +50,12 @@ para quién podría serlo.
 
     Ejemplo de mapa dibujado a mano alzada
 
-Si tu ciudad es como la mayoría, habrás dibujado algunas líneas que representan
-carreteras, tal vez un río o torrente. Puede que hayas añadido edificios
-importantes como colegios y oficinas, campos o límites. Para cualquier cosa que
-hayas dibujado, probablemente hayas usado símbolos (una línea para representar
-una carretera, un rectángulo para dibujar un edificio, etc.). Tu mapa es una
-representación de lo que existe en el terreno.
+Si su ciudad es como la mayoría, es posible que haya dibujado unas líneas para
+representar caminos, posiblemente, un río o arroyo. Tal vez haya agregado
+edificios importantes tales como escuelas y oficinas, campos, o límites. Lo que
+sea que dibujaste, probablemente usó símbolos - una línea para simbolizar un
+camino, un cuadrado para simbolizar un edificio, y así sucesivamente. Su mapa es
+una representación de lo que hay en el suelo.
 
 .. figure:: img/en_beg_01_introduction_image02_examples-of-symbols.png
     :alt: Ejemplos de símbolos
@@ -59,15 +63,15 @@ representación de lo que existe en el terreno.
 
     Ejemplos de símbolos
 
-Tu mapa es información. Podrías usar un mapa como éste para explicar a
-alguien dónde se encuentran diferentes lugares, dónde se encuentran los
-problemas en tu comunidad, o simplemente para ayudar a alguien a moverse por el
-lugar. Los usos de tu mapa por otro lado son limitados. Solo hay una copia del
-mismo y la forma en que lo dibujaste solo tiene sentido para ti, pero tal vez no
-lo tenga para otra persona que habría dibujado lo mismo de otra forma. Porque tu
-mapa es simplemente un trozo de papel, es difícil llevar esa información a otras
-personas. Por esta razón puede tener mucha más utilidad hacer tu mapa en una
-computadora, de tal forma que cualquiera pueda acceder al mismo.
+Su mapa es informativo. Puede usar un mapa como este para explicar a alguien
+donde están diferentes lugares, donde están los problemas en su comunidad, o
+simplemente para ayudar a alguien a encontrar su camino. El uso de su mapa es
+limitado, ya que sólo hay una copia del mapa. El modo en que dibujó puede tener
+sentido para ti, pero quizás no para otra persona que habría dibujado su propio
+mapa de una manera diferente. Debido a que su mapa solo está en el papel, es
+difícil llevar esa información a otras personas. Esta es la razón por la que
+hacer su mapa en un equipo, de tal manera que cualquiera pueda acceder, pueda
+ser mucho más valioso.
 
 .. figure:: img/en_beg_01_introduction_image03_mapping-on-computer.png
     :alt: Cartografiando en una computadora
@@ -75,15 +79,14 @@ computadora, de tal forma que cualquiera pueda acceder al mismo.
 
     Cartografiando en una computadora
 
-OpenStreetMap es una herramienta para crear y compartir información
-cartográfica. Cualquiera puede contribuir a OSM y miles de personas se suman al
-proyecto cada día. Los usuarios dibujan mapas en sus computadoras, en lugar de
-hacerlo en papel, como veremos en esta guía, dibujar un mapa en una
-computadora no es tan diferente de hacerlo sobre papel. De igual forma
-dibujaremos líneas para representar carreteras, campos y todo lo demás y del
-mismo modo representamos escuelas y hospitales con símbolos. Lo más importante
-es que los mapas OSM se guardan en Internet y cualquiera puede acceder a ellos
-en cualquier momento, son totalmente libres y gratuitos.
+OpenStreetMap es una herramienta para crear y compartir la información del mapa.
+Cualquiera puede contribuir a OSM, y miles de personas se suman al proyecto cada
+día. Los usuarios dibujan mapas en sus equipos, en lugar de papel, pero como
+veremos en esta guía, dibujar un mapa en un equipo no es tan diferente de
+dibujarlo en papel. Aún dibujamos líneas para representar los caminos, campos, y
+cualquier otra cosa, y también representamos a las escuelas y hospitales con
+símbolos. Lo importante es que los mapas de OSM se guardan en Internet, y
+cualquiera puede acceder a ellos en cualquier momento, totalmente libre.
 
 
 .. figure:: img/en_beg_01_introduction_image04_digital-maps-with-osm.png
@@ -92,33 +95,122 @@ en cualquier momento, son totalmente libres y gratuitos.
 
     Mapas digitales con OpenStreetMap
 
+Esperamos que encuentre OpenStreetMap útil e interesante en su
+trabajo. Siguiendo esta guía, debería ser capaz de arrancar rápidamente
+elaborando mapas digitales con OpenStreetMap.
 
-Esperamos que encuentres OpenStreetMap útil e interesante en tu trabajo.
-Siguiendo esta guía serás capaz de crear mapas digitales rápidamente y añadirlos
-a OSM.
+
+.. _intro-hot:
+
+Introducción al Equipo Humanitario de OSM
+============================================
+
+
+.. note:: Texto extraído de la `portada del HOT en el wiki de OSM`_, se
+   recomienda visitar la página (especialmente la versión en inglés) para
+   obtener abundantes referencias a actividades actuales del HOT_.
+
+.. _portada del HOT en el wiki de OSM: http://wiki.openstreetmap.org/wiki/ES:Humanitarian_OSM_Team
+
+.. figure:: http://wiki.openstreetmap.org/w/images/5/5c/2015_04_26_Nepal_Earthquake_Kathmandu_living_lab.png
+  :align: right
+  :alt: Equipo trabajando con el HOT el día después del terremoto de Nepal
+
+.. figure:: http://wiki.openstreetmap.org/w/images/thumb/a/af/Hot_logo_with_text.svg/500px-Hot_logo_with_text.svg.png
+  :align: right
+  :alt: Logotipo del HOT
+
+Desde los primeros tiempos de OpenStreetMap_, se anticipó que los datos libres
+y abiertos iban a ser tremendamente beneficiosos para la ayuda humanitaria y el
+desarrollo económico.
+
+La idea se confirmó durante el `terremoto de Haití en 2010`_ . Poco después, en
+agosto de 2010, HOT se constituyó en Estadus Unidos como una organización sin
+ánimo de lucro y obtuvo el registro 501(c)3 `como organización benéfica`_ en
+2013.
+
+Todo el mundo es bienvenido a contribuir en los objetivos del HOT a través del
+gestor de tareas `Tasking Manager`_); todo lo que se necesita es un `usuario en OpenStreetMap`_.
+
+Solo se pide que se intente seguir el mismo código de conducta que siguen los
+miembros con derecho a voto, que se puede ver en el `código de membresía del HOT`_ (en inglés).
+
+.. _terremoto de Haití en 2010: http://en.wikipedia.org/wiki/2010_Haiti_earthquake
+.. _como organización benéfica: http://hot.openstreetmap.org/donate
+.. _Tasking Manager: http://tasks.hotosm.org/
+.. _usuario en OpenStreetMap: https://www.openstreetmap.org/user/new
+.. _código de membresía del HOT: http://wiki.openstreetmap.org/w/images/2/2f/HOT_Membership_Code--proposal_for_annual_meeting_2014.pdf
+
+
+Misión y Objetivos del Equipo Humanitario de OSM
+---------------------------------------------------
+
+Misión
+"""""""""""
+
+* El Equipo Humanitario de OpenStreetMap (HOT) aplica los principios del *software*
+  y los datos abiertos a la respuesta humanitaria y el desarrollo económico.
+
+Objetivos principales
+""""""""""""""""""""""""""
+
+* Ser el punto de conexión entre los actores de ayuda humanitaria y  las
+  comunidades de cartografía abierta
+
+* Proporcionar la creación de datos a distancia durante cualquier crisis
+
+* Recolectar y organizacr las fuentes de datos existentes
+
+* Apoyar despliegues en el campo
+
+* Ser un punto de distribución de datos libres
+
+* Desarrollar conocimiento y herramientas abiertas
+
+
+Promoción, Capacitación y Difusión
+"""""""""""""""""""""""""""""""""""""""
+
+* Jornadas de cartografía o *mapping parties*
+
+* Hablar, escribir, reunirse en comunidades humanitarias y con técnicos de las
+  Naciones Unidas
+
+* http://learnosm.org
+
+* http://summit.hotosm.org/
+
+
+Pensar y Diseñar
+"""""""""""""""""""
+
+* Promocionar el desarrollo colaborativo y estándares web sencillos para compartir datos
+
+* Desarrollar mejoras técnicas en OSM y OSGeo en respuesta a las
+  necesidades sobre el terreno (apoyo en línea, verificación, adaptadores de
+  formato, sincronización con varios maestros..)
+
+
+.. _intro-produccion-osm:
+
 
 El proceso de producción de OSM
----------------------------------------
+============================================
 
-.. note:: Material extraído del `taller de OSM, JOSM y Tillemill`_
-
-.. _taller de OSM, JOSM y Tillemill: https://taller-de-josm-imposm-tilemill.readthedocs.org/es/feature-cfp2014/osm/osm_intro.html#procedimiento-de-creacion-de-mapas
-
+.. note:: Material extraído del `taller de OSM, JOSM y Tillemill <https://taller-de-josm-imposm-tilemill.readthedocs.org/es/feature-cfp2014/osm/osm_intro.html#procedimiento-de-creacion-de-mapas>`_
 
 Los mapas se realizan siguiendo 3 pasos:
 
 * Toma de datos
-
 * Subida de datos a los servidores de OSM:
 
   - Edición gráfica de los datos
-
   - Edición alfanumérica de los datos
 
 * Renderizado de los mapas
 
 Toma de datos
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------
 
 Los datos se recopilan por observación directa, preferentemente empleando
 GPS, aunque pueden emplearse otros medios como fotografía aérea si los
@@ -145,7 +237,7 @@ Los orígenes más comunes de datos son:
 * Información previa existente que requiera ser incluida en un mapa.
 
 Subida de datos a los servidores de OpenStreetMap
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------
 
 Una vez recopilada la información, esta debe ser incorporada a la base de
 datos de OSM. Para ello existen diversos medios, aunque principalmente se
@@ -158,7 +250,7 @@ emplean clientes web como iD:
 
 y el cliente de escritorio JOSM:
 
-.. image:: img/josmgirona.png
+.. image:: img/josmupv.png
    :width: 600 px
    :alt: editor josm
    :align: center
@@ -210,13 +302,12 @@ Esta información adicional alfanumérica permite clasificar los datos para
 que el proceso de renderizado los muestre correctamente representados.
 
 Renderizado de los mapas
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------
 
-El proyecto OSM tiene `varios motores de renderizado
-<http://wiki.openstreetmap.org/wiki/Renderers>`_ tanto en 2D como en 3D que
-permiten obtener una imagen de la información de la base de datos. El principal
-motor de renderizado es el que utiliza la biblioteca Mapnik. Un proceso automático
-toma los datos desde la base de datos principal y los carga en una base de datos
+El proyecto OSM tiene `varios motores de renderizado`_  que permiten obtener una
+imagen de la información de la base de datos. El principal motor de renderizado
+es el que utiliza la biblioteca Mapnik_. Un proceso automático toma los datos
+desde la base de datos principal y los carga en una base de datos
 Postgresql/PostGIS para posteriormente renderizar tiles de 256x256 que son
 normalmente consumidos desde la web principal del proyecto.
 
@@ -225,81 +316,11 @@ normalmente consumidos desde la web principal del proyecto.
    :alt: mapa renderizado con mapnik
    :align: center
 
-
-Introducción al Equipo Humanitario de OSM
----------------------------------------------
-
-.. note:: Texto extraído de la `portada del HOT en el wiki de OSM`_
-
-.. _portada del HOT en el wiki de OSM: wiki.openstreetmap.org/wiki/ES:Humanitarian_OSM_Team
-
-Desde los primeros tiempos de OpenStreetMap_, se anticipó que los datos libres
-y abiertos iban a ser tremendamente beneficiosos para la ayuda humanitaria y el
-desarrollo económico.
-
-La idea se confirmó durante el `terremoto de Haití en 2010`_ . Poco después, en
-agosto de 2010, HOT se constituyó en Estadus Unidos como una organización sin
-ánimo de lucro y obtuvo el registro 501(c)3 `como organización benéfica`_ en
-2013.
-
-Todo el mundo es bienvenido a contribuir en los objetivos del HOT a través del
-gestor de tareas `Tasking Manager`_); todo lo que se necesita es un `usuario en OpenStreetMap`_.
-
-Solo se pide que se intente seguir el mismo código de conducta que siguen los
-miembros con derecho a voto, que se puede ver en el `código de membresía del HOT`_ (en inglés).
-
-.. _terremoto de Haití en 2010: http://en.wikipedia.org/wiki/2010_Haiti_earthquake
-.. _como organización benéfica: http://hot.openstreetmap.org/donate
-.. _Tasking Manager: http://tasks.hotosm.org/
-.. _usuario en OpenStreetMap: https://www.openstreetmap.org/user/new
-.. _código de membresía del HOT: http://wiki.openstreetmap.org/w/images/2/2f/HOT_Membership_Code--proposal_for_annual_meeting_2014.pdf
+.. _varios motores de renderizado: http://wiki.openstreetmap.org/wiki/Renderers
+.. _Mapnik: http://mapnik.org/
 
 
-Misión y Objetivos del Equipo Humanitario de OSM
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Misión
-"""""""""""
-
-* El Equipo Humanitario de OpenStreetMap (HOT) aplica los principios del *software* y los datos abiertos a la respuesta humanitaria y el desarrollo económico.
-
-Objetivos principales
-""""""""""""""""""""""""""
-
-* Ser el punto de conexión entre los actores de ayuda humanitaria y  las
-  comunidades de cartografía abierta
-
-* Proporcionar la creación de datos a distancia durante cualquier crisis
-
-* Recolectar y organizacr las fuentes de datos existentes
-
-* Apoyar despliegues en el campo
-
-* Ser un punto de distribución de datos libres
-
-* Desarrollar conocimiento y herramientas abiertas
-
-
-Promoción, Capacitación y Difusión
-"""""""""""""""""""""""""""""""""""""""
-
-* Jornadas de cartografía o *mapping parties*
-
-* Hablar, escribir, reunirse en comunidades humanitarias y con técnicos de las
-  Naciones Unidas
-
-* http://summit.hotosm.org/
-
-
-Pensar y Diseñar
-"""""""""""""""""""
-
-* Promocionar el desarrollo colaborativo y estándares web sencillos para compartir datos
-
-* Desarrollar mejoras técnicas en OSM y OSGeo en respuesta a las
-  necesidades sobre el terreno (apoyo en línea, verificación, adaptadores de
-  formato, sincronización con varios maestros..)
-
+.. _intro-datos:
 
 Los datos en OSM
 ====================
@@ -476,8 +497,9 @@ asociada al estilo OSM a traves de pares key/value
 Relaciones (Relation)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Las Relaciones son listas ordenadas de objetos, son objetos en si mismas y sirven para definir relaciones
-entre cualquier tipo de objeto. También tienen información como:
+Las Relaciones son listas ordenadas de objetos, son objetos en si mismas y
+sirven para definir relaciones entre cualquier tipo de objeto. También tienen
+información como:
 
 * **id:** el identificador
 
@@ -518,29 +540,6 @@ mismas.
    :width: 600 px
    :alt: web de map features
    :align: center
-
-
-Referencias y enlaces de interés
--------------------------------------
-
-* `Página principal de OpenStreetMap   <http://www.openstreetmap.org/>`_
-* `Wiki de OpenStreetMap   <http://wiki.openstreetmap.org/>`_
-* `Información sobre Potlach   <http://wiki.openstreetmap.org/wiki/Potlatch>`_
-* `Información sobre JOSM  <http://wiki.openstreetmap.org/wiki/JOSM>`_
-* `Información sobre Merkaartor <http://wiki.openstreetmap.org/wiki/Merkaartor>`_
-* `Etiquetas aceptadas por la comunidad OSM: <http://wiki.openstreetmap.org/wiki/Tags>`_
-* `Exportación vía web de OSM  <http://openstreetmap.com/export/>`_
-* `API de OSM versión 0.6  <http://wiki.openstreetmap.org/wiki/OSM_Protocol_Version_0.6>`_
-
-.. cuanto se puede utilizar de la charla del taller de Tilemill?
-
-Editores de OSM
-===============
-
-.. note:: traer contenido de LearnOSM
-
-.. Hablar de JOSM y de iD
-
 
 
 .. _OpenStreetMap: http://www.openstreetmap.org/
