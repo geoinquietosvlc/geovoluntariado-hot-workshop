@@ -19,14 +19,16 @@ Mapping Party *How To*
 
 Una *mapping party* es donde un grupo de colaboradores de OpenStreetMap
 (veteranos y novatos) se dirigen a algún lugar para cartografiarlo en detalle,
-normalmente durante un fin de semana. Es un tipo de evento muy social, donde
-la gente habitualmente se reúne y charla entre sesiones de toma de datos
-(normalmente en un bar, una biblioteca o un centro cultural).
-Una sesión de toma de datos consiste en repartir
-entre los participantes un área dividida en zonas, y se sale a cartografiarla,
-bien en coche, en bicicleta o andando. Para una descripción más detallada de
-qué es una *mapping party* puedes echar un vistazo a la página `Mapping
-parties`_.
+normalmente durante un fin de semana. 
+
+Es un tipo de evento muy social, donde la gente habitualmente se reúne y charla
+entre sesiones de toma de datos (normalmente en un bar, una biblioteca o un
+centro cultural).
+
+Una sesión de toma de datos consiste en repartir entre los participantes un área
+dividida en zonas, y se sale a cartografiarla, bien en coche, en bicicleta o
+andando. Para una descripción más detallada de qué es una *mapping party* puedes
+echar un vistazo a la página `Mapping parties`_.
 
 .. _Mapping parties: https://wiki.openstreetmap.org/wiki/Mapping_parties
 
@@ -48,18 +50,19 @@ favor considera el organizar una siguiendo los consejos de esta guía.
 Arrancando
 -------------------
 
-Para conseguir una *mapping party* exitosa necesitas tres ingredientes clave:
+Para conseguir una *mapping party* de éxito necesitas tres ingredientes clave:
 un lugar, gente y una fecha. Encontrar un buen lugar es normalmente lo más
 difícil de conseguir. El resto simplemente irá a su sitio.
 
-* **Cuándo** Una vez tienes una localización aproximada (*Valencia* o
-  *Sevilla*    por ejemplo) y un par de personas, pon una página en el wiki con
-  todos los detalles y confirma la fecha. El resto es fácil. Ese día, salvo que
-  tengas muchos novatos, todo ocurrirá por si mismo, así de fácil.
+* **Cuándo** Una vez tienes una localización aproximada (*Valencia* o *Sevilla*
+  por ejemplo) y un par de personas, pon una página en el wiki de OSM con todos
+  los detalles y confirma la fecha. El resto es fácil. Ese día, salvo que tengas
+  muchos novatos, todo ocurrirá por si mismo, así de fácil.
 
 * **Dónde** El lugar más sencillo es un bar, preferiblemente con WiFi gratuita.
-  O tal vez seas capaz de encontrar una empresa, un centro cultural, una biblioteca
-  o un auditorio que puedan ofrecer espacio libre y gratuito durante el fin de semana.
+  O tal vez seas capaz de encontrar una empresa, un centro cultural, una
+  biblioteca o un auditorio que puedan ofrecer espacio libre y gratuito durante
+  el fin de semana.
 
 * **Quién** Lo siguiente es conseguir que algunas personas se apunten. Es
   conveniente intentar contactar con dos o tres colaboradores locales antes para
@@ -99,9 +102,10 @@ Lugar
     pidan) - echa un vistazo a la página de discusión de la versión en inglés de
     esta página para más detalles.
 
-  * El bar de la tarde y cena realmente importa. Crear comunidad está muy
-    relacionado con la interacción social, por lo que busca un buen bar y dile
-    a todo el mundo que después de la actividad os reuniréis allí a tomar algo.
+  * El bar de la tarde y el de la cena son detalles importantes. Crear comunidad
+    está muy relacionado con la interacción social, por lo que busca un buen bar
+    y dile a todo el mundo que después de la actividad os reuniréis allí a tomar
+    algo.
 
 * Obtén las coordenadas geográficas (latitud/longitud) de los lugares de reunión
   y anúncialos previamente.
@@ -134,20 +138,26 @@ Otros
 .. _Mapping Party Template: https://wiki.openstreetmap.org/wiki/Mapping_Party_Template
 .. _London mapping party: https://wiki.openstreetmap.org/wiki/London_mapping_party
 .. _Mapping Weekend Howto/Cake Diagram: https://wiki.openstreetmap.org/wiki/Mapping_Weekend_Howto/Cake_Diagram
-.. _
+
 
 Durante el evento
 -----------------------
 
-Asegúrate de tener el *hardware* y *software* necesarios como:
+Asegúrate de tener el *hardware* y *software* necesarios como por ejemplo:
 
 * Lector de tarjetas SD (para las unidades GPS y similares)
-* Un cable de serie para Garmin (y un conversor de serie a USB
-  si lo vas a necesitar)
+
+* Un cable de serie para Garmin (y un conversor de serie a USB si lo vas a
+  necesitar)
+
 * JOSM_
+
 * GPSBabel_
+
 * El *software* para las unidades GPS si es necesario
+
 * Cámara de fotos
+
 * Herramientas para móviles como `OSM Contributor Mapping Tool`_ o Vespucci_
 
 .. _JOSM: https://wiki.openstreetmap.org/wiki/JOSM
@@ -211,7 +221,7 @@ Promoción en *Internet*
 
   * http://meetup.com - ¡Cuesta dinero! Por alguna razón, este sitio es una
     opción bastante popular, pese a que existan muchas alternativas gratuitas.
-    `OSM EEUU tiene una cuenta`_
+    Puedes encontrar `grupos relacionados con OSM`_ allí.
 
 
 * Busca grupos locales de entusiastas de la tecnología (como por ejemplo grupos
@@ -224,7 +234,8 @@ Promoción en *Internet*
 
 * *Hay muchísimas más maneras de hacer promoción en Internet*.
 
-.. _OSM EEUU tiene una cuenta: http://openstreetmap.meetup.com
+
+.. _grupos relacionados con OSM: http://www.meetup.com/es-ES/topics/openstreetmap/
 
 Nota de prensa
 ~~~~~~~~~~~~~~~~~~~
@@ -413,11 +424,11 @@ en el que se convocó a la comunidad a pasar una noche en vela cartografiando.
 
 En mapatón por tanto es una sesión que tiene un objetivo doble:
 
-* Por un lado se pretende **responder a una necesidad concreta y bien definida** que
-  en general será una activación especialmente urgente del HOT_. Por lo tanto
-  no es un taller exactamente, o una jornada para aprender sobre cómo funciona
-  |OSM| sino como mucho para aprender lo justo para poder colaborar en los objetivos
-  marcados.
+* Por un lado se pretende **responder a una necesidad concreta y bien definida**
+  que en general será una activación especialmente urgente del HOT_. Por lo
+  tanto no es un taller exactamente, o una jornada para aprender sobre cómo
+  funciona |OSM| sino como mucho para aprender lo justo para poder colaborar en
+  los objetivos marcados.
 
 * Por otro lado es una ocasión excelente para **atraer la atención** de posibles
   nuevos colaboradores, siempre va a ser atractivo ofrecer la oportunidad de
@@ -429,19 +440,34 @@ Preparación
 
 En esencia la preparación de un *Mapatón* es muy similar a la de una *Mapping
 Party* normal, salvo que se trata de un evento mucho más reducido y por tanto en
-teoría sencillo de organizar. Un mapatón suele organizarse para una única
-jornada o incluso media jornada, seguramente por la tarde de forma que sea más
-sencillo para los asistentes acudir.
+teoría sencillo de organizar.
+
+Un mapatón suele organizarse para una única jornada o incluso media jornada,
+seguramente por la tarde de forma que sea más sencillo para los asistentes
+acudir. La duración mínima debería estar en torno a las 2.5 horas, teniendo en
+cuenta que la primera media hora se suele emplear en la bienvenida y la
+explicación del trabajo a realizar y los repasar los conocimiéntos mínimos.
+
+Como parte de la preparación suele ser muy importante crear una página en el
+wiki de OSM sobre el evento donde ir apuntando los datos más relevantes y dónde
+pueda almacenarse la experiencia que se ha adquirido.
+
+Otras herramientas que se suelen usar son calendarios on-line compartidos,
+herramientas de gestión de tareas y herramientas de coordinación de eventos
+estilo *meetup*.
 
 Al igual que con una *Mapping Party*, lo más importante es conseguir un buen
 lugar para trabajar. Algunas opciones habituales son:
 
-* Laboratorios con equipos informáticos en centros educativos, especialmente en
-  universidades.
-* Espacios públicos con suficiente capacidad como bibliotecas o centros culturales
+* Laboratorios o salas de informática con equipos suficientes en centros
+  educativos, especialmente en universidades.
+
+* Espacios públicos con suficiente capacidad como bibliotecas o centros
+  culturales
+
 * Espacios privados que se presten a ceder sus instalaciones como centros de
-  *coworking*, organizaciones sin ánimo de lucro o incluso bares o cafeterías
-  si el día elegido es tranquilo.
+  *coworking*, organizaciones sin ánimo de lucro o incluso bares o cafeterías si
+  el día elegido es tranquilo.
 
 .. figure:: https://farm2.staticflickr.com/1628/26478732772_42027f44a5_z_d.jpg
   :align: right
@@ -451,10 +477,10 @@ lugar para trabajar. Algunas opciones habituales son:
 
 Lo mínimo que se necesita es:
 
-* Mesas, sillas y enchufes suficientes. Si hace falta, pedir a la gente traer
-  algunas regletas.
+* Mesas, sillas y enchufes. Si hace falta, pedir a la gente traer algunas
+  regletas.
 
-* Asegurar que hay conexión a Internet suficiente para la capacidad del local
+* Asegurar que hay conexión a Internet  para la capacidad del local
 
 Con esto ya se puede empezar, es poco pero puede ser suficiente dependiendo del
 perfil de los asistentes.
@@ -464,34 +490,37 @@ demostraciones, charla inicial introductoria, etc.
 
 Finalmente, si además el espacio es fácilmente accesible mediante transporte
 público, existe cerca algún bar o restaurante para poder parar a comer sin
-perder mucho tiempo, máquinas de refrescos, etc hará que el mapatón sea más
+perder mucho tiempo, máquinas de refrescos, etc. hará que el mapatón sea más
 cómodo para los asistentes.
 
-Todo esto y el resto de la documentación que vayamos a producir sobre el
-mapatón es conveniente ir dejándolo por escrito en el wiki de |OSM|.
+Todo esto y el resto de la documentación que vayamos a producir sobre el mapatón
+es conveniente ir dejándolo por escrito en el wiki de |OSM|.
+
 
 Difusión
 -------------
 
 Se pueden seguir las mismas recomendaciones que se exponen en el apartado sobre
 :ref:`publicidad <mp-publi>` de la sección anterior, considerando que el evento
-probablemente va a ser interesante para un entorno más local y que, en función de
-las capacidades del local y de la respuesta de la comunidad a llamamientos anteriores,
-puede ser interesante enfocar la difusión para colaboradores a OSM ya existentes,
-o tal vez a nuevos posibles colaboradores.
+probablemente va a ser interesante para un entorno más local y que, en función
+de las capacidades del local y de la respuesta de la comunidad a llamamientos
+anteriores, puede ser interesante enfocar la difusión para colaboradores a OSM
+ya existentes, o tal vez a nuevos posibles colaboradores.
 
-En el segundo caso, es interesante por tanto hacer énfasis en difundir la celebración
-del mapatón en entornos universitarios y en el ámbito de las ONGs, donde el objetivo
-de la actividad puede resultar atractivo y motivador.
+En el segundo caso, es interesante por tanto hacer énfasis en difundir la
+celebración del mapatón en entornos universitarios y en el ámbito de las ONGs,
+donde el objetivo de la actividad puede resultar atractivo y motivador.
 
-Contar con contactos en grupos tecnológicos locales, listas de correo y *newsletters*,
-grupos en redes sociales y cualquier otro medio de comunicación pueden resultar
-útiles. Hay que dedicar cierto tiempo a llegar a esos foros no tecnológicos donde
-seguramente encontraremos potenciales nuevos colaboradores.
+Contar con contactos en grupos tecnológicos locales, listas de correo y
+*newsletters*, grupos en redes sociales y cualquier otro medio de comunicación
+pueden resultar útiles. También hay que dedicar cierto tiempo a llegar a foros
+no tecnológicos donde seguramente encontraremos potenciales nuevos
+colaboradores.
 
-Es conveniente en el wiki ir dejando constancia de aquellos medios donde se hagan
-eco del evento, así como cualquier dificultad o tarea sin terminar de difusión que
-pueda ayudar a evitar perder el tiempo en futuros mapatones.
+Es conveniente ir documentando en el wiki, ir dejando constancia de aquellos
+medios donde se hagan eco del evento, así como cualquier dificultad o tarea sin
+terminar de difusión que pueda ayudar a evitar perder el tiempo en futuros
+mapatones.
 
 
 Organización del trabajo
@@ -499,14 +528,17 @@ Organización del trabajo
 
 Algunas cosas que se pueden pedir a los asistentes traer:
 
-* Traer un portátil si tus instalaciones no tienen equipos
+* Traer un portátil si tus instalaciones no tienen equipos suficientes.
 
-* Traer alguna regleta si se tienen a mano
+* Traer alguna regleta si se tienen a mano. Nunca están de más.
+
+* Traer puntos de acceso a Internet portátiles. Los grupos con perfiles más
+  tecnológicos suelen tener.
 
 * Venir con un navegador moderno instalado (*Google Chrome* o *Mozilla Firefox*)
 
-* Venir con la máquina virtual Java instalada (si se va a editar con JOSM, dependerá
-  del perfil medio de los usuarios que vendrán)
+* Venir con la máquina virtual Java instalada (si se va a editar con el editor
+  JOSM, dependerá del perfil medio de los usuarios que vendrán)
 
 * Si pueden venir con una cuenta de OSM creada, mucho mejor
 
@@ -530,81 +562,281 @@ En las instalaciones:
 Durante el mapatón
 -----------------------
 
-Un mapatón, al igual que la sesión de edición de datos de una *Mapping Party* normal
-puede dividirse en:
+Un mapatón, al igual que la sesión de edición de datos de una *Mapping Party*
+normal puede dividirse en:
 
 #. Bienvenida e introducción
+
 #. Edición
+
 #. Resultados y conclusiones.
 
-Es importante al iniciar la sesión conocer los perfiles de los asistentes, tal vez sea
-interesante dividirlos en grupos de mayor o menor experiencia. Por ejemplo:
+Es importante al iniciar la sesión conocer los perfiles de los asistentes, tal
+vez sea interesante dividirlos en grupos de mayor o menor experiencia. Por
+ejemplo:
 
-*  **Usuarios novatos**: habrá que darles una charla de introducción específica y enseñarles
-   las cuestiones más básicas. Seguramente sea interesante que se deciden a tareas
-   de edición con **iD** que no requieran de grandes conocimientos en etiquetado. Deberán
-   contar con el soporte de uno o varios colaboradores con experiencia que se quieran ofrecer
-   a ayudarles. Es también probable que con este grupo sea necesario crear cuentas,
-   configurar equipos y otras tareas que retrasarían al resto.
+*  **Usuarios novatos**: habrá que darles una charla de introducción específica
+   y enseñarles las cuestiones más básicas. Seguramente sea interesante que se
+   deciden a tareas de edición con el editor web **iD** que no requieran de
+   grandes conocimientos en etiquetado. Deberán contar con el soporte de uno o
+   varios colaboradores con experiencia que se quieran ofrecer a ayudarles. Es
+   también probable que con este grupo sea necesario crear cuentas, configurar
+   equipos y otras tareas que retrasarían al resto.
 
-*  **Usuarios con experiencia**: estos usuarios seguramente ya han editado con iD o JOSM y
-   solo necesitan que se les indique sobre qué zonas se va a cartografiar, qué tipo de
-   entidades son más importantes y en general serán bastante autónomos, ya que aún con
-   dudas, por si mismos podrán resolverlas.
+*  **Usuarios con experiencia**: estos usuarios seguramente ya han editado con
+   iD o JOSM y solo necesitan que se les indique sobre qué zonas se va a
+   cartografiar, qué tipo de entidades son más importantes y en general serán
+   bastante autónomos, ya que aún con dudas, por si mismos podrán resolverlas.
 
-*  **Usuarios expertos**: en el caso de contar con muchos usuarios con experiencia, tal vez
-   los más veteranos puedan dedicarse a tareas de validación, ya que éstas suelen ser
-   menos populares y requieren de cierta experiencia en el trabajo en el HOT.
+*  **Usuarios expertos**: en el caso de contar con muchos usuarios con
+   experiencia, tal vez los más veteranos puedan dedicarse a tareas de
+   validación, ya que éstas suelen ser menos populares y requieren de cierta
+   experiencia en el trabajo en el HOT.
 
 
 Resultados y conclusiones
 -----------------------
 
-Es conveniente recordar a todos los colaboradores el utilizar algún tipo de etiqueta que
-permita filtrar los *changesets* o generar algún tipo de visualización como la ofrecida
-por `Result Maps <http://resultmaps.neis-one.org/osm-changesets#2/33.9/1.4>`_.
+Es conveniente recordar a todos los colaboradores el utilizar algún tipo de
+etiqueta que permita filtrar los *changesets* o generar algún tipo de
+visualización como la ofrecida por `Result Maps
+<http://resultmaps.neis-one.org/osm-changesets#2/33.9/1.4>`_. Generalmente el
+*Task Manager* sugiere una etiqueta en las instrucciónes de la activación
+correspondiente.
 
-Además del balance cuantitativo, es recomendable anotar en el wiki las lecciones aprendidas,
-así como hacer con el grupo algún tipo de retrospectiva que ayude a recoger las impresiones
-tanto de asistentes como organizadores. Esta información, al igual que la indicada en los
-aspectos relativos a la preparación y difusión del evento servirán para mejorar la organización
-de futuros mapatones no solo por el mismo equipo sino especialmente para aquellos nuevos
-colaboradores que se animen a organizar un mapatón en su ciudad.
+Además del balance cuantitativo, es altamente recomendable anotar en el wiki las
+lecciones aprendidas, así como hacer con el grupo algún tipo de retrospectiva
+que ayude a recoger las impresiones tanto de asistentes como organizadores.
+
+Esta información, al igual que la indicada en los aspectos relativos a la
+preparación y difusión del evento servirán para **mejorar** la organización de
+futuros mapatones no solo por el mismo equipo sino especialmente para aquellos
+nuevos colaboradores que se animen a organizar un mapatón en su ciudad.
 
 Hay que ser ágil
 -----------------------
 
 Es tremendamente importante conseguir ser ágil al organizar un mapatón del HOT.
 Los primeros días después de una catástrofe son los más importantes y conseguir
-ayudar **lo antes posible** a cartografiar la zona afectada debe ser el principal
-objetivo de un grupo de trabajo del HOT. Esto significa que las personas
-involucradas en preparar y coordinar un mapatón deben actuar de forma rápida
-y eficiente. Algunas indicaciones:
+ayudar **lo antes posible** a cartografiar la zona afectada debe ser el
+principal objetivo de un grupo de trabajo del HOT. Esto significa que las
+personas involucradas en preparar y coordinar un mapatón deben actuar de forma
+rápida y eficiente. Algunas indicaciones:
 
 - Tener canales de comunicación inmediatos para el grupo de coordinadores:
-  grupos de mensajería para móviles suelen funcionar bien (Telegram,
-  WhatsApp, Facebook, etc.)
+  grupos de mensajería para móviles suelen funcionar bien (Telegram, WhatsApp,
+  Facebook, etc.)
+
 - Tener uno o varios espacios *candidatos* a los que acudir de forma inmediata.
-  Esto incluye haber coordinado previamente con los responsables de esos espacios
-  la posibilidad de necesitarlos con cierta urgencia. En ocasiones hay espacios
-  de los que no se puede disponer en fines de semana por ejemplo por temas de
-  seguridad.
+  Esto incluye haber coordinado previamente con los responsables de esos
+  espacios la posibilidad de necesitarlos con cierta urgencia. En ocasiones hay
+  espacios de los que no se puede disponer en fines de semana por ejemplo por
+  temas de seguridad.
+
 - Disponer de plantillas para acelerar la difusión al máximo incluyendo:
 
-  - Carteles y folletos
-  - Correos y mensajes para redes sociales
-  - Nota de prensa
-  - Presentaciones
-  - Etc.
+  * Carteles y folletos
+
+  * Correos y mensajes para redes sociales
+
+  * Nota de prensa
+
+  * Presentaciones
+
+  * Etc.
 
 - Definir responsables y *backups* para cada área de coordinación:
 
-  - Definición del trabajo a realizar: tareas del *task manager*
-  - Logística: fecha y lugar
-  - Difusión: redes sociales, nota de prensa, etc
+  * Definición del trabajo a realizar: tareas del *task manager*
 
-  Esto por supuesto no significa que el responsable tiene que hacer todo el
-  trabajo de su área, sólo de que se haga.
+  * Logística: fecha y lugar
+
+  * Difusión: redes sociales, nota de prensa, etc
+
+Esto por supuesto no significa que el responsable tiene que hacer todo el
+trabajo de su área, sólo de que se haga.
+
+
+Listas de comprobación para Mapathones
+--------------------------------------
+
+Tener en cuenta que la lista de comprobación solo es una herramienta que hay que
+adaptar a cada caso, no se trata de una lista *definitiva* pero si suele cubrir
+la mayoria de los casos.
+
+
+Sobre el trabajo a realizar
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Seleccionar la **Tarea** sobre la que se va a trabajar.
+
+* Comprobar la calidad e las imágens disponibles en la zona.
+
+* Comprobar las instrucciones específicas de la tarea.
+
+* Preparar unas breves indicaciones de ayuda para los trabajos en la tarea.
+  Mini-guias u hojas de instrucciones.
+
+* Obtener archivo OSM y capturas de pantalla del estado de la zona antes de empezar a
+  trabajar.
+
+
+Sobre el lugar de trabajo
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Reservar el local con suficiente antelación, teniendo en cuenta:
+
+  + Fecha.
+
+  + Lugar.
+
+  + Posibles conflictos de fechas.
+
+  + Tamaño del evento en asistentes.
+
+  + Acceso a Internet.
+
+* Hacer una visita previa al local y considerar:
+
+  + Si hace falta algún procedimiento para entrar (registro, etc.) o si el uso
+    requiere de alguna burocrácia previa.
+
+  + Si hay suficientes enchufes.
+
+  + Si hay proyector y pantalla.
+
+  + Si el local tiene ordenadores que puedan usarse y si estos son suficientes o
+    hay que pedirle a la gente que traigan los suyos.
+
+* Conseguir el contacto del responsable de IT del local y hablar con él sobre el
+  evento.
+
+
+Logística
+~~~~~~~~~
+
+* Conseguir voluntarios para cubrir los siguientes puestos:
+
+  + 3-4 Personas de apoyo para contestar dudas de los asistentes.
+
+  + 1 Presentador - Formador.
+
+  + 1 Persona encargada del registro de asistentes.
+
+  + 1 Persona encargada de la comida y bebida.
+
+  + 1 Persona encargada de Social Media y Fotos.
+
+* Regletas (extensores eléctricos).
+
+* Sillas.
+
+* Mesas.
+
+* Altavoces.
+
+* Micrófonos.
+
+* Posters informátivos.
+
+* Señalética (indicaciones en el lugar para dirigir asistentes a la sala, los
+  baños, etc.).
+
+* Hojas de inscripción (Nombre, email, como nos conociste, etc.).
+
+* Hojas con instrucciones, resúmenes, mini-guías, etc. previamente impresas.
+
+* Pegatinas con el nombre para los organizadores.
+
+* Material informático extra (ratones, cables de red, etc.).
+
+* Ordenadores extra ya configurados.
+
+* Comida y bebida.
+
+* Vajilla (vasos, platos, cubiertos, servilletas).
+
+
+Previa al evento
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Coordinarse con posibles colaboradores.
+
+  + Empleando MeetUp.
+
+  +  través de Meetups similares.
+
+* Contactar con universidades.
+
+* Contactar con bibliotecas.
+
+* Contactar con medios locales (prensa, radio, etc.).
+
+* Animar a la participación aúnque sea en remoto.
+
+* Escoger un hashtag de Twitter.
+
+* Preparar entradas de Facebook.
+
+* Si fuera necesario, enviar a los colaboradores "Paquetes de contenidos para
+  medios"
+
+* Enviar recordatorios del evento.
+
+Durante la celebración del evento
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Preparar la sala
+
+* Contactar con el personal de IT del local e informarles.
+
+* Prepara zona de registro de asistentes: fichas de inscripción, documentación a
+  entregar, etc.
+
+* Comprobar el equipo y asegurarse de que funciona.
+
+* Si se emplean extensiones, colocar cinta americana sobre los cables para
+  evitar accidentes.
+
+* Asegurarse de que cada puesto de trabajo tiene las mini-guias o indicaciones
+  necesarias.
+
+* Dar la charla de introducción (mostrar vídeos de ediciones).
+
+* Preguntar el nivel de experiencia de la gente.
+
+* Comprobar que todo el mundo tiene un usuario de OSM.
+
+* Realizar ante todos el tutorial de edición de ID.
+
+* Hacer fotos y tuitear.
+
+* Preguntar a los asistentes por feedback durante el evento.
+
+* Que los asistentes y voluntarios completen las encuestas necesarias.
+
+* Confirmar que la comida y la bebida estarán a tiempo.
+
+Una vez acabado el evento
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Dar las gracias a todos por la asistencia.
+
+* Si hay eventos relacionados en breve, reseñarlos.
+
+* Enviar un informe con la diferencia entre el antes y el después a todos los
+  asistentes.
+
+* Recoger y analizar métricas (cuantos asistente, cuantas ediciones, cuantas
+  tareas cerradas, etc.)
+
+* Obtener archivo OSM y capturas de pantalla del estado de la zona después de la
+  sesión de trabajo.
+
+* Crear gráficos e infografías.
+
+* ¡Empezar a planificar el siguiente!
+
 
 Referencias
 ------------------
@@ -614,9 +846,12 @@ Referencias
 * Notas sobre `cómo prepararse para asistir a un evento de Missing Maps <http://wiki.openstreetmap.org/wiki/Missing_Maps_Mapathons_-_before_the_event>`_.
 
 * La `Noche de los Mapas Vivientes`_
+
 * Artículo sobre la `retrospectiva en estrella <https://www.thekua.com/rant/2006/03/the-retrospective-starfish/>`_
+
+* Página sobre `preparación de mapatones`_ 
 
 
 .. _HOT: http://hotosm.org
 .. _Noche de los Mapas Vivientes: http://wiki.openstreetmap.org/wiki/Night_of_the_living_maps
-
+.. _preparación de mapatones: http://osmgeoweek.org/http://mapgive.state.gov/box/en/resources/event-checklist/
