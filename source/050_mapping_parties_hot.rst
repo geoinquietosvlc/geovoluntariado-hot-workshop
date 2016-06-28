@@ -19,7 +19,7 @@ Mapping Party *How To*
 
 Una *mapping party* es donde un grupo de colaboradores de OpenStreetMap
 (veteranos y novatos) se dirigen a algún lugar para cartografiarlo en detalle,
-normalmente durante un fin de semana. 
+normalmente durante un fin de semana.
 
 Es un tipo de evento muy social, donde la gente habitualmente se reúne y charla
 entre sesiones de toma de datos (normalmente en un bar, una biblioteca o un
@@ -668,174 +668,174 @@ la mayoria de los casos.
 Sobre el trabajo a realizar
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Seleccionar la **Tarea** sobre la que se va a trabajar.
+  * Seleccionar la **Tarea** sobre la que se va a trabajar.
 
-* Comprobar la calidad e las imágens disponibles en la zona.
+  * Comprobar la calidad e las imágens disponibles en la zona.
 
-* Comprobar las instrucciones específicas de la tarea.
+  * Comprobar las instrucciones específicas de la tarea.
 
-* Preparar unas breves indicaciones de ayuda para los trabajos en la tarea.
-  Mini-guias u hojas de instrucciones.
+  * Preparar unas breves indicaciones de ayuda para los trabajos en la tarea.
+    Mini-guias u hojas de instrucciones.
 
-* Obtener archivo OSM y capturas de pantalla del estado de la zona antes de empezar a
-  trabajar.
+  * Obtener archivo OSM y capturas de pantalla del estado de la zona antes de empezar a
+    trabajar.
 
 
 Sobre el lugar de trabajo
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Reservar el local con suficiente antelación, teniendo en cuenta:
+  * Reservar el local con suficiente antelación, teniendo en cuenta:
 
-  + Fecha.
+    + Fecha.
 
-  + Lugar.
+    + Lugar.
 
-  + Posibles conflictos de fechas.
+    + Posibles conflictos de fechas.
 
-  + Tamaño del evento en asistentes.
+    + Tamaño del evento en asistentes.
 
-  + Acceso a Internet.
+    + Acceso a Internet.
 
-* Hacer una visita previa al local y considerar:
+  * Hacer una visita previa al local y considerar:
 
-  + Si hace falta algún procedimiento para entrar (registro, etc.) o si el uso
-    requiere de alguna burocrácia previa.
+    + Si hace falta algún procedimiento para entrar (registro, etc.) o si el uso
+      requiere de alguna burocrácia previa.
 
-  + Si hay suficientes enchufes.
+    + Si hay suficientes enchufes.
 
-  + Si hay proyector y pantalla.
+    + Si hay proyector y pantalla.
 
-  + Si el local tiene ordenadores que puedan usarse y si estos son suficientes o
-    hay que pedirle a la gente que traigan los suyos.
+    + Si el local tiene ordenadores que puedan usarse y si estos son suficientes o
+      hay que pedirle a la gente que traigan los suyos.
 
-* Conseguir el contacto del responsable de IT del local y hablar con él sobre el
-  evento.
+  * Conseguir el contacto del responsable de IT del local y hablar con él sobre el
+    evento.
 
 
 Logística
 ~~~~~~~~~
 
-* Conseguir voluntarios para cubrir los siguientes puestos:
+  * Conseguir voluntarios para cubrir los siguientes puestos:
 
-  + 3-4 Personas de apoyo para contestar dudas de los asistentes.
+    + 3-4 Personas de apoyo para contestar dudas de los asistentes.
 
-  + 1 Presentador - Formador.
+    + 1 Presentador - Formador.
 
-  + 1 Persona encargada del registro de asistentes.
+    + 1 Persona encargada del registro de asistentes.
 
-  + 1 Persona encargada de la comida y bebida.
+    + 1 Persona encargada de la comida y bebida.
 
-  + 1 Persona encargada de Social Media y Fotos.
+    + 1 Persona encargada de Social Media y Fotos.
 
-* Regletas (extensores eléctricos).
+  * Regletas (extensores eléctricos).
 
-* Sillas.
+  * Sillas.
 
-* Mesas.
+  * Mesas.
 
-* Altavoces.
+  * Altavoces.
 
-* Micrófonos.
+  * Micrófonos.
 
-* Posters informátivos.
+  * Posters informátivos.
 
-* Señalética (indicaciones en el lugar para dirigir asistentes a la sala, los
-  baños, etc.).
+  * Señalética (indicaciones en el lugar para dirigir asistentes a la sala, los
+    baños, etc.).
 
-* Hojas de inscripción (Nombre, email, como nos conociste, etc.).
+  * Hojas de inscripción (Nombre, email, como nos conociste, etc.).
 
-* Hojas con instrucciones, resúmenes, mini-guías, etc. previamente impresas.
+  * Hojas con instrucciones, resúmenes, mini-guías, etc. previamente impresas.
 
-* Pegatinas con el nombre para los organizadores.
+  * Pegatinas con el nombre para los organizadores.
 
-* Material informático extra (ratones, cables de red, etc.).
+  * Material informático extra (ratones, cables de red, etc.).
 
-* Ordenadores extra ya configurados.
+  * Ordenadores extra ya configurados.
 
-* Comida y bebida.
+  * Comida y bebida.
 
-* Vajilla (vasos, platos, cubiertos, servilletas).
+  * Vajilla (vasos, platos, cubiertos, servilletas).
 
 
 Previa al evento
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Coordinarse con posibles colaboradores.
+  * Coordinarse con posibles colaboradores.
 
-  + Empleando MeetUp.
+    + Empleando MeetUp.
 
-  +  través de Meetups similares.
+    +  través de Meetups similares.
 
-* Contactar con universidades.
+  * Contactar con universidades.
 
-* Contactar con bibliotecas.
+  * Contactar con bibliotecas.
 
-* Contactar con medios locales (prensa, radio, etc.).
+  * Contactar con medios locales (prensa, radio, etc.).
 
-* Animar a la participación aúnque sea en remoto.
+  * Animar a la participación aúnque sea en remoto.
 
-* Escoger un hashtag de Twitter.
+  * Escoger un hashtag de Twitter.
 
-* Preparar entradas de Facebook.
+  * Preparar entradas de Facebook.
 
-* Si fuera necesario, enviar a los colaboradores "Paquetes de contenidos para
-  medios"
+  * Si fuera necesario, enviar a los colaboradores "Paquetes de contenidos para
+    medios"
 
-* Enviar recordatorios del evento.
+  * Enviar recordatorios del evento.
 
 Durante la celebración del evento
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Preparar la sala
+  * Preparar la sala
 
-* Contactar con el personal de IT del local e informarles.
+  * Contactar con el personal de IT del local e informarles.
 
-* Prepara zona de registro de asistentes: fichas de inscripción, documentación a
-  entregar, etc.
+  * Prepara zona de registro de asistentes: fichas de inscripción,
+    documentación a entregar, etc.
 
-* Comprobar el equipo y asegurarse de que funciona.
+  * Comprobar el equipo y asegurarse de que funciona.
 
-* Si se emplean extensiones, colocar cinta americana sobre los cables para
-  evitar accidentes.
+  * Si se emplean extensiones, colocar cinta americana sobre los cables para
+    evitar accidentes.
 
-* Asegurarse de que cada puesto de trabajo tiene las mini-guias o indicaciones
-  necesarias.
+  * Asegurarse de que cada puesto de trabajo tiene las mini-guias o
+    indicaciones necesarias.
 
-* Dar la charla de introducción (mostrar vídeos de ediciones).
+  * Dar la charla de introducción (mostrar vídeos de ediciones).
 
-* Preguntar el nivel de experiencia de la gente.
+  * Preguntar el nivel de experiencia de la gente.
 
-* Comprobar que todo el mundo tiene un usuario de OSM.
+  * Comprobar que todo el mundo tiene un usuario de OSM.
 
-* Realizar ante todos el tutorial de edición de ID.
+  * Realizar ante todos el tutorial de edición de ID.
 
-* Hacer fotos y tuitear.
+  * Hacer fotos y tuitear.
 
-* Preguntar a los asistentes por feedback durante el evento.
+  * Preguntar a los asistentes por feedback durante el evento.
 
-* Que los asistentes y voluntarios completen las encuestas necesarias.
+  * Que los asistentes y voluntarios completen las encuestas necesarias.
 
-* Confirmar que la comida y la bebida estarán a tiempo.
+  * Confirmar que la comida y la bebida estarán a tiempo.
 
 Una vez acabado el evento
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Dar las gracias a todos por la asistencia.
+  * Dar las gracias a todos por la asistencia.
 
-* Si hay eventos relacionados en breve, reseñarlos.
+  * Si hay eventos relacionados en breve, reseñarlos.
 
-* Enviar un informe con la diferencia entre el antes y el después a todos los
-  asistentes.
+  * Enviar un informe con la diferencia entre el antes y el después a todos los
+    asistentes.
 
-* Recoger y analizar métricas (cuantos asistente, cuantas ediciones, cuantas
-  tareas cerradas, etc.)
+  * Recoger y analizar métricas (cuantos asistente, cuantas ediciones, cuantas
+    tareas cerradas, etc.)
 
-* Obtener archivo OSM y capturas de pantalla del estado de la zona después de la
-  sesión de trabajo.
+  * Obtener archivo OSM y capturas de pantalla del estado de la zona
+    después de la sesión de trabajo.
 
-* Crear gráficos e infografías.
+  * Crear gráficos e infografías.
 
-* ¡Empezar a planificar el siguiente!
+  * ¡Empezar a planificar el siguiente!
 
 
 Referencias
@@ -849,7 +849,7 @@ Referencias
 
 * Artículo sobre la `retrospectiva en estrella <https://www.thekua.com/rant/2006/03/the-retrospective-starfish/>`_
 
-* Página sobre `preparación de mapatones`_ 
+* Página sobre `preparación de mapatones`_
 
 
 .. _HOT: http://hotosm.org
