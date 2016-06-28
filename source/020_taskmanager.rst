@@ -1,7 +1,7 @@
 .. _taskmanager:
 
 ======================
-El Task Manager de HOT
+El Tasking manager de HOT
 ======================
 
 .. note:: Texto extraído de la `guía de coordinación de OSM <http://learnosm.org/es/coordination/tasking-manager/>`_
@@ -277,7 +277,7 @@ Editar con iD
   ventana en el navegador, con los datos existentes de OSM cargados. El
   navegador *Internet Explorer* no soporta aún el editor iD y carga
   automáticamente el editor Potlatch 2. La pestaña o ventana original con el
-  *Task Manager* seguirá estando disponible en el navegador.
+  *Tasking manager* seguirá estando disponible en el navegador.
 
 Editar con Potlatch 2
 """"""""""""""""""""""""""

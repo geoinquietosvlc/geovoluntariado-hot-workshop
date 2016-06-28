@@ -37,10 +37,10 @@ con ellos.
 Tras una pequeña introducción al modelo de datos de OSM y a los principales
 editores cartográficos que se pueden usar (JOSM_, ID_), entraremos en detalle a
 ver cómo funciona la principal herramienta de coordinación del HOT_: el
-`Task Manager`_.
+`Tasking manager`_.
 
 En la segunda parte del taller revisaremos diferentes tipos de acciones
-coordinadas en el `Task Manager`_, es decir, qué tareas solicita el HOT_ a su
+coordinadas en el `Tasking manager`_, es decir, qué tareas solicita el HOT_ a su
 comunidad de colaboradores (elaboración de cartografía, trabajos de revisión y
 validación, etc), cuál es la mecánica para configurar los editores, etc.
 
@@ -79,4 +79,4 @@ Referencias
 .. _HOT: http://hotosm.org
 .. _JOSM: https://josm.openstreetmap.de/
 .. _ID: http://ideditor.com/
-.. _Task Manager: http://tasks.hotosm.org
+.. _Tasking manager: http://tasks.hotosm.org

@@ -507,7 +507,7 @@ En las instalaciones:
 * Tener descargada una máquina virtual Java y tal vez versiones portables para *Windows*
   de *Firefox* y JOSM al menos.
 
-* Revisar mínimamente el estado de las tareas en el *Task Manager* que vamos a
+* Revisar mínimamente el estado de las tareas en el *Tasking manager* que vamos a
   ofrecer a los asistentes, comprobar que las instrucciones para la configuración
   de los editores funcionan y cualquier otra indicación que haga falta pasar a los
   asistentes.

@@ -428,7 +428,7 @@ tipo de propósitos.
   pintan de un color gris claro en la vista estándar.
 
 + Donde no hay tiempo suficiente para cartografiar en detalle, el proyecto del
-  *Task Manager* es común que solicite algo como esto:
+  *Tasking manager* es común que solicite algo como esto:
 
 
 .. note:: Cartografiar las infraestructuras esenciales como escuelas, lugares
@@ -461,7 +461,7 @@ Cómo cartografiar *landuse=residential*
 rápidamente establece un límite aproximado alrededor del área con
 *landuse=residential*
 
-*Fase 2* - Se crea el proyecto en el *Task Manager* y colaboradores
+*Fase 2* - Se crea el proyecto en el *Tasking manager* y colaboradores
 individuales refinan el límite para que esté más cerca de los edificios, etc.
 
 .. figure:: img/JOSM_residential.png
